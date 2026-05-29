@@ -86,6 +86,35 @@ function getPopulationColor(population: number): string {
   return "#c6dbef";
 }
 
+function MapPanes() {
+  const map = useMap();
+
+  useEffect(() => {
+    if (!map.getPane("townPane")) {
+      const townPane = map.createPane("townPane");
+      townPane.style.zIndex = "430";
+      townPane.style.pointerEvents = "auto";
+    }
+    if (!map.getPane("storePane")) {
+      const storePane = map.createPane("storePane");
+      storePane.style.zIndex = "650";
+      storePane.style.pointerEvents = "auto";
+    }
+
+    const tooltipPane = map.getPane("tooltipPane");
+    if (tooltipPane) {
+      tooltipPane.style.zIndex = "800";
+    }
+
+    const popupPane = map.getPane("popupPane");
+    if (popupPane) {
+      popupPane.style.zIndex = "810";
+    }
+  }, [map]);
+
+  return null;
+}
+
 
 // ---- 町輪郭レイヤー（Voronoi GeoJSON を Leaflet で直接描画）----
 function TownLayer({
@@ -104,6 +133,7 @@ function TownLayer({
     const popup = L.popup();
 
     const geoLayer = L.geoJSON(data, {
+      pane: "townPane",
       style: (feature) => {
         const pop =
           (feature?.properties as Record<string, number>)
@@ -121,8 +151,11 @@ function TownLayer({
           population_age_65_and_over: number;
         };
         const baseColor = getPopulationColor(props.population_age_65_and_over);
+        const detailHtml =
+          `<strong>${props.town_name}</strong><br/>` +
+          `65歳以上人口: ${props.population_age_65_and_over.toLocaleString()} 人`;
 
-        layer.on("mouseover", () => {
+        layer.on("mouseover", (e: L.LeafletMouseEvent) => {
           (layer as L.Path).setStyle({
             fillOpacity: 0.9,
             color: "#fff",
@@ -190,8 +223,8 @@ export default function NagasakiMap() {
       .then(setCityBoundary)
       .catch(console.error);
 
-    // スーパーマーケットデータの読み込み（OSM）
-    fetch(`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/data/supermarkets2.json`)
+    // スーパーマーケットデータの読み込み（OSM / Overpass取得版）
+    fetch(`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/data/supermarkets.json`)
       .then((r) => r.json())
       .then((d) => setSupermarkets(d.elements ?? []))
       .catch(console.error);
@@ -291,10 +324,11 @@ export default function NagasakiMap() {
       <MapContainer
         center={[32.7503, 129.8777]}
         zoom={13}
-        preferCanvas={true}
+        preferCanvas={false}
         style={{ height: "100%", width: "100%" }}
         scrollWheelZoom={true}
       >
+      <MapPanes />
       <LayersControl position="topright">
         {/* ベースマップ */}
         <BaseLayer checked name="地理院標準地図">
@@ -340,6 +374,7 @@ export default function NagasakiMap() {
                   <CircleMarker
                     key={s.id}
                     center={[s.lat, s.lon]}
+                    pane="storePane"
                     radius={7}
                     pathOptions={{
                       fillColor: "#ef4444",
@@ -381,10 +416,15 @@ export default function NagasakiMap() {
                   <Marker
                     key={s.id}
                     position={[s.lat, s.lng]}
+                    pane="storePane"
                     icon={makeRetailIcon(s.area, s.type)}
                   >
-                    <Tooltip direction="top" offset={[0, -18]}>
-                      {s.name}
+                    <Tooltip direction="top" offset={[0, -18]} opacity={0.95}>
+                      <div>
+                        <div><strong>{s.name}</strong></div>
+                        <div>{s.chain} / {s.type}</div>
+                        <div>{s.address}</div>
+                      </div>
                     </Tooltip>
                     <Popup>
                       <div className="text-sm">
