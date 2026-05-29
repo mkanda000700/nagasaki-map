@@ -4,6161 +4,3317 @@
     "town_name": "本河内１丁目",
     "population_age_65_and_over": 214,
     "latitude": 32.749607,
-    "longitude": 129.897547,
-    "bounds": {
-      "north": 32.750788,
-      "south": 32.748741,
-      "east": 129.899934,
-      "west": 129.895859
-    }
+    "longitude": 129.897547
   },
   {
     "id": 2,
     "town_name": "本河内２丁目",
     "population_age_65_and_over": 292,
     "latitude": 32.750737,
-    "longitude": 129.902321,
-    "bounds": {
-      "north": 32.751354,
-      "south": 32.750172,
-      "east": 129.908775,
-      "west": 129.899934
-    }
+    "longitude": 129.902321
   },
   {
     "id": 3,
     "town_name": "本河内３丁目",
     "population_age_65_and_over": 428,
     "latitude": 32.750949,
-    "longitude": 129.915229,
-    "bounds": {
-      "north": 32.751967,
-      "south": 32.74584,
-      "east": 129.921485,
-      "west": 129.913157
-    }
+    "longitude": 129.915229
   },
   {
     "id": 4,
     "town_name": "本河内４丁目",
     "population_age_65_and_over": 63,
     "latitude": 32.762006,
-    "longitude": 129.913866,
-    "bounds": {
-      "north": 32.76752,
-      "south": 32.756478,
-      "east": 129.914548,
-      "west": 129.907065
-    }
+    "longitude": 129.913866
   },
   {
     "id": 5,
     "town_name": "矢の平１丁目",
     "population_age_65_and_over": 158,
     "latitude": 32.747876,
-    "longitude": 129.89417,
-    "bounds": {
-      "north": 32.748376,
-      "south": 32.746277,
-      "east": 129.89467,
-      "west": 129.892672
-    }
+    "longitude": 129.89417
   },
   {
     "id": 6,
     "town_name": "矢の平２丁目",
     "population_age_65_and_over": 259,
     "latitude": 32.748251,
-    "longitude": 129.891174,
-    "bounds": {
-      "north": 32.748751,
-      "south": 32.747751,
-      "east": 129.892672,
-      "west": 129.889629
-    }
+    "longitude": 129.891174
   },
   {
     "id": 7,
     "town_name": "矢の平３丁目",
     "population_age_65_and_over": 138,
     "latitude": 32.744679,
-    "longitude": 129.894219,
-    "bounds": {
-      "north": 32.746277,
-      "south": 32.743268,
-      "east": 129.894878,
-      "west": 129.893719
-    }
+    "longitude": 129.894219
   },
   {
     "id": 8,
     "town_name": "矢の平４丁目",
     "population_age_65_and_over": 129,
     "latitude": 32.741858,
-    "longitude": 129.895537,
-    "bounds": {
-      "north": 32.743268,
-      "south": 32.741356,
-      "east": 129.897107,
-      "west": 129.894878
-    }
+    "longitude": 129.895537
   },
   {
     "id": 9,
     "town_name": "白木町",
     "population_age_65_and_over": 324,
     "latitude": 32.740854,
-    "longitude": 129.898677,
-    "bounds": {
-      "north": 32.741356,
-      "south": 32.738315,
-      "east": 129.900499,
-      "west": 129.897107
-    }
+    "longitude": 129.898677
   },
   {
     "id": 10,
     "town_name": "八つ尾町",
     "population_age_65_and_over": 471,
     "latitude": 32.735775,
-    "longitude": 129.897198,
-    "bounds": {
-      "north": 32.738315,
-      "south": 32.735275,
-      "east": 129.897938,
-      "west": 129.895588
-    }
+    "longitude": 129.897198
   },
   {
     "id": 11,
     "town_name": "中川１丁目",
     "population_age_65_and_over": 113,
     "latitude": 32.751187,
-    "longitude": 129.892647,
-    "bounds": {
-      "north": 32.751687,
-      "south": 32.749719,
-      "east": 129.89356,
-      "west": 129.891286
-    }
+    "longitude": 129.892647
   },
   {
     "id": 12,
     "town_name": "中川２丁目",
     "population_age_65_and_over": 189,
     "latitude": 32.75197,
-    "longitude": 129.894473,
-    "bounds": {
-      "north": 32.752759,
-      "south": 32.75147,
-      "east": 129.89601,
-      "west": 129.89356
-    }
+    "longitude": 129.894473
   },
   {
     "id": 13,
     "town_name": "新中川町",
     "population_age_65_and_over": 141,
     "latitude": 32.751308,
-    "longitude": 129.889924,
-    "bounds": {
-      "north": 32.752059,
-      "south": 32.750808,
-      "east": 129.891286,
-      "west": 129.88911
-    }
+    "longitude": 129.889924
   },
   {
     "id": 14,
     "town_name": "桜馬場１丁目",
     "population_age_65_and_over": 202,
     "latitude": 32.752809,
-    "longitude": 129.888296,
-    "bounds": {
-      "north": 32.753309,
-      "south": 32.752059,
-      "east": 129.88911,
-      "west": 129.887024
-    }
+    "longitude": 129.888296
   },
   {
     "id": 15,
     "town_name": "桜馬場２丁目",
     "population_age_65_and_over": 201,
     "latitude": 32.753548,
-    "longitude": 129.890845,
-    "bounds": {
-      "north": 32.754185,
-      "south": 32.753048,
-      "east": 129.891746,
-      "west": 129.890242
-    }
+    "longitude": 129.890845
   },
   {
     "id": 16,
     "town_name": "新大工町",
     "population_age_65_and_over": 255,
     "latitude": 32.752809,
-    "longitude": 129.885753,
-    "bounds": {
-      "north": 32.753504,
-      "south": 32.752309,
-      "east": 129.886253,
-      "west": 129.885253
-    }
+    "longitude": 129.885753
   },
   {
     "id": 17,
     "town_name": "伊勢町",
     "population_age_65_and_over": 102,
     "latitude": 32.751846,
-    "longitude": 129.885511,
-    "bounds": {
-      "north": 32.752346,
-      "south": 32.751346,
-      "east": 129.886011,
-      "west": 129.884849
-    }
+    "longitude": 129.885511
   },
   {
     "id": 18,
     "town_name": "伊良林１丁目",
     "population_age_65_and_over": 163,
     "latitude": 32.750932,
-    "longitude": 129.886942,
-    "bounds": {
-      "north": 32.751432,
-      "south": 32.74996,
-      "east": 129.887513,
-      "west": 129.886227
-    }
+    "longitude": 129.886942
   },
   {
     "id": 19,
     "town_name": "伊良林２丁目",
     "population_age_65_and_over": 160,
     "latitude": 32.748987,
-    "longitude": 129.888083,
-    "bounds": {
-      "north": 32.74996,
-      "south": 32.74765,
-      "east": 129.889629,
-      "west": 129.887513
-    }
+    "longitude": 129.888083
   },
   {
     "id": 20,
     "town_name": "伊良林３丁目",
     "population_age_65_and_over": 206,
     "latitude": 32.746312,
-    "longitude": 129.887635,
-    "bounds": {
-      "north": 32.74765,
-      "south": 32.74463,
-      "east": 129.888135,
-      "west": 129.885865
-    }
+    "longitude": 129.887635
   },
   {
     "id": 21,
     "town_name": "風頭町",
     "population_age_65_and_over": 334,
     "latitude": 32.742947,
-    "longitude": 129.888674,
-    "bounds": {
-      "north": 32.74463,
-      "south": 32.742314,
-      "east": 129.890308,
-      "west": 129.887201
-    }
+    "longitude": 129.888674
   },
   {
     "id": 22,
     "town_name": "彦見町",
     "population_age_65_and_over": 301,
     "latitude": 32.741108,
-    "longitude": 129.891941,
-    "bounds": {
-      "north": 32.741608,
-      "south": 32.739322,
-      "east": 129.893739,
-      "west": 129.890308
-    }
+    "longitude": 129.891941
   },
   {
     "id": 23,
     "town_name": "寺町",
     "population_age_65_and_over": 21,
     "latitude": 32.747277,
-    "longitude": 129.884096,
-    "bounds": {
-      "north": 32.748049,
-      "south": 32.746777,
-      "east": 129.884596,
-      "west": 129.883596
-    }
+    "longitude": 129.884096
   },
   {
     "id": 24,
     "town_name": "八幡町",
     "population_age_65_and_over": 296,
     "latitude": 32.75038,
-    "longitude": 129.884187,
-    "bounds": {
-      "north": 32.75088,
-      "south": 32.7496,
-      "east": 129.884849,
-      "west": 129.883378
-    }
+    "longitude": 129.884187
   },
   {
     "id": 25,
     "town_name": "麹屋町",
     "population_age_65_and_over": 213,
     "latitude": 32.748821,
-    "longitude": 129.883267,
-    "bounds": {
-      "north": 32.7496,
-      "south": 32.748049,
-      "east": 129.883767,
-      "west": 129.882229
-    }
+    "longitude": 129.883267
   },
   {
     "id": 26,
     "town_name": "出来大工町",
     "population_age_65_and_over": 118,
     "latitude": 32.751759,
-    "longitude": 129.883059,
-    "bounds": {
-      "north": 32.752259,
-      "south": 32.751259,
-      "east": 129.883623,
-      "west": 129.882559
-    }
+    "longitude": 129.883059
   },
   {
     "id": 27,
     "town_name": "馬町",
     "population_age_65_and_over": 132,
     "latitude": 32.75238,
-    "longitude": 129.882487,
-    "bounds": {
-      "north": 32.75288,
-      "south": 32.75188,
-      "east": 129.882987,
-      "west": 129.881987
-    }
+    "longitude": 129.882487
   },
   {
     "id": 28,
     "town_name": "炉粕町",
     "population_age_65_and_over": 56,
     "latitude": 32.752897,
-    "longitude": 129.881749,
-    "bounds": {
-      "north": 32.753833,
-      "south": 32.752397,
-      "east": 129.882249,
-      "west": 129.880928
-    }
+    "longitude": 129.881749
   },
   {
     "id": 29,
     "town_name": "勝山町",
     "population_age_65_and_over": 99,
     "latitude": 32.751081,
-    "longitude": 129.879854,
-    "bounds": {
-      "north": 32.751581,
-      "south": 32.750581,
-      "east": 129.880354,
-      "west": 129.878998
-    }
+    "longitude": 129.879854
   },
   {
     "id": 30,
     "town_name": "大井手町",
     "population_age_65_and_over": 47,
     "latitude": 32.751074,
-    "longitude": 129.88257,
-    "bounds": {
-      "north": 32.751574,
-      "south": 32.750574,
-      "east": 129.88307,
-      "west": 129.88207
-    }
+    "longitude": 129.88257
   },
   {
     "id": 31,
     "town_name": "今博多町",
     "population_age_65_and_over": 67,
     "latitude": 32.750591,
-    "longitude": 129.882127,
-    "bounds": {
-      "north": 32.751091,
-      "south": 32.750091,
-      "east": 129.882627,
-      "west": 129.881627
-    }
+    "longitude": 129.882127
   },
   {
     "id": 32,
     "town_name": "古町",
     "population_age_65_and_over": 68,
     "latitude": 32.750185,
-    "longitude": 129.881596,
-    "bounds": {
-      "north": 32.750685,
-      "south": 32.749685,
-      "east": 129.882096,
-      "west": 129.881096
-    }
+    "longitude": 129.881596
   },
   {
     "id": 33,
     "town_name": "桶屋町",
     "population_age_65_and_over": 95,
     "latitude": 32.749621,
-    "longitude": 129.881191,
-    "bounds": {
-      "north": 32.750121,
-      "south": 32.749121,
-      "east": 129.881691,
-      "west": 129.880557
-    }
+    "longitude": 129.881191
   },
   {
     "id": 34,
     "town_name": "諏訪町",
     "population_age_65_and_over": 236,
     "latitude": 32.747179,
-    "longitude": 129.881531,
-    "bounds": {
-      "north": 32.747919,
-      "south": 32.746535,
-      "east": 129.882031,
-      "west": 129.881031
-    }
+    "longitude": 129.881531
   },
   {
     "id": 35,
     "town_name": "魚の町",
     "population_age_65_and_over": 307,
     "latitude": 32.748659,
-    "longitude": 129.879922,
-    "bounds": {
-      "north": 32.749159,
-      "south": 32.748117,
-      "east": 129.880557,
-      "west": 129.879065
-    }
+    "longitude": 129.879922
   },
   {
     "id": 36,
     "town_name": "栄町",
     "population_age_65_and_over": 70,
     "latitude": 32.747575,
-    "longitude": 129.878208,
-    "bounds": {
-      "north": 32.748117,
-      "south": 32.747075,
-      "east": 129.879065,
-      "west": 129.877708
-    }
+    "longitude": 129.878208
   },
   {
     "id": 37,
     "town_name": "古川町",
     "population_age_65_and_over": 115,
     "latitude": 32.745891,
-    "longitude": 129.881714,
-    "bounds": {
-      "north": 32.746391,
-      "south": 32.745391,
-      "east": 129.882905,
-      "west": 129.881214
-    }
+    "longitude": 129.881714
   },
   {
     "id": 38,
     "town_name": "銀屋町",
     "population_age_65_and_over": 88,
     "latitude": 32.745903,
-    "longitude": 129.880844,
-    "bounds": {
-      "north": 32.746541,
-      "south": 32.745403,
-      "east": 129.881344,
-      "west": 129.880344
-    }
+    "longitude": 129.880844
   },
   {
     "id": 39,
     "town_name": "東古川町",
     "population_age_65_and_over": 67,
     "latitude": 32.745743,
-    "longitude": 129.88022,
-    "bounds": {
-      "north": 32.746243,
-      "south": 32.745243,
-      "east": 129.88072,
-      "west": 129.879648
-    }
+    "longitude": 129.88022
   },
   {
     "id": 40,
     "town_name": "賑町",
     "population_age_65_and_over": 96,
     "latitude": 32.746623,
-    "longitude": 129.877299,
-    "bounds": {
-      "north": 32.747123,
-      "south": 32.745896,
-      "east": 129.877799,
-      "west": 129.876701
-    }
+    "longitude": 129.877299
   },
   {
     "id": 41,
     "town_name": "万屋町",
     "population_age_65_and_over": 254,
     "latitude": 32.74518,
-    "longitude": 129.879076,
-    "bounds": {
-      "north": 32.74568,
-      "south": 32.74468,
-      "east": 129.879648,
-      "west": 129.87842
-    }
+    "longitude": 129.879076
   },
   {
     "id": 42,
     "town_name": "築町",
     "population_age_65_and_over": 39,
     "latitude": 32.745168,
-    "longitude": 129.876104,
-    "bounds": {
-      "north": 32.745902,
-      "south": 32.744668,
-      "east": 129.876934,
-      "west": 129.875604
-    }
+    "longitude": 129.876104
   },
   {
     "id": 43,
     "town_name": "浜町",
     "population_age_65_and_over": 118,
     "latitude": 32.744284,
-    "longitude": 129.877763,
-    "bounds": {
-      "north": 32.744784,
-      "south": 32.743634,
-      "east": 129.87842,
-      "west": 129.87717
-    }
+    "longitude": 129.877763
   },
   {
     "id": 44,
     "town_name": "銅座町",
     "population_age_65_and_over": 99,
     "latitude": 32.742984,
-    "longitude": 129.876577,
-    "bounds": {
-      "north": 32.743634,
-      "south": 32.742475,
-      "east": 129.87717,
-      "west": 129.876077
-    }
+    "longitude": 129.876577
   },
   {
     "id": 45,
     "town_name": "鍛冶屋町",
     "population_age_65_and_over": 250,
     "latitude": 32.743031,
-    "longitude": 129.883124,
-    "bounds": {
-      "north": 32.744461,
-      "south": 32.742531,
-      "east": 129.884426,
-      "west": 129.882501
-    }
+    "longitude": 129.883124
   },
   {
     "id": 46,
     "town_name": "油屋町",
     "population_age_65_and_over": 196,
     "latitude": 32.742216,
-    "longitude": 129.881879,
-    "bounds": {
-      "north": 32.742716,
-      "south": 32.741684,
-      "east": 129.882501,
-      "west": 129.881224
-    }
+    "longitude": 129.881879
   },
   {
     "id": 47,
     "town_name": "高平町",
     "population_age_65_and_over": 195,
     "latitude": 32.741682,
-    "longitude": 129.885728,
-    "bounds": {
-      "north": 32.742356,
-      "south": 32.740647,
-      "east": 129.887201,
-      "west": 129.884426
-    }
+    "longitude": 129.885728
   },
   {
     "id": 48,
     "town_name": "愛宕1丁目",
     "population_age_65_and_over": 289,
     "latitude": 32.73852,
-    "longitude": 129.88779,
-    "bounds": {
-      "north": 32.740101,
-      "south": 32.737268,
-      "east": 129.889461,
-      "west": 129.887039
-    }
+    "longitude": 129.88779
   },
   {
     "id": 49,
     "town_name": "愛宕2丁目",
     "population_age_65_and_over": 239,
     "latitude": 32.737535,
-    "longitude": 129.891132,
-    "bounds": {
-      "north": 32.738035,
-      "south": 32.736447,
-      "east": 129.892555,
-      "west": 129.889461
-    }
+    "longitude": 129.891132
   },
   {
     "id": 50,
     "town_name": "愛宕3丁目",
     "population_age_65_and_over": 369,
     "latitude": 32.733629,
-    "longitude": 129.890233,
-    "bounds": {
-      "north": 32.734494,
-      "south": 32.733129,
-      "east": 129.892105,
-      "west": 129.889096
-    }
+    "longitude": 129.890233
   },
   {
     "id": 51,
     "town_name": "愛宕4丁目",
     "population_age_65_and_over": 189,
     "latitude": 32.735359,
-    "longitude": 129.893977,
-    "bounds": {
-      "north": 32.735859,
-      "south": 32.734494,
-      "east": 129.895588,
-      "west": 129.892555
-    }
+    "longitude": 129.893977
   },
   {
     "id": 52,
     "town_name": "弥生町",
     "population_age_65_and_over": 398,
     "latitude": 32.730841,
-    "longitude": 129.894964,
-    "bounds": {
-      "north": 32.7331,
-      "south": 32.730188,
-      "east": 129.895805,
-      "west": 129.892942
-    }
+    "longitude": 129.894964
   },
   {
     "id": 53,
     "town_name": "三景台町",
     "population_age_65_and_over": 367,
     "latitude": 32.726474,
-    "longitude": 129.896647,
-    "bounds": {
-      "north": 32.728657,
-      "south": 32.725002,
-      "east": 129.901522,
-      "west": 129.896125
-    }
+    "longitude": 129.896647
   },
   {
     "id": 54,
     "town_name": "東小島町",
     "population_age_65_and_over": 170,
     "latitude": 32.739612,
-    "longitude": 129.882882,
-    "bounds": {
-      "north": 32.740382,
-      "south": 32.739088,
-      "east": 129.883523,
-      "west": 129.881943
-    }
+    "longitude": 129.882882
   },
   {
     "id": 55,
     "town_name": "上小島１丁目",
     "population_age_65_and_over": 190,
     "latitude": 32.7372,
-    "longitude": 129.884165,
-    "bounds": {
-      "north": 32.738406,
-      "south": 32.736608,
-      "east": 129.885226,
-      "west": 129.882761
-    }
+    "longitude": 129.884165
   },
   {
     "id": 56,
     "town_name": "上小島２丁目",
     "population_age_65_and_over": 217,
     "latitude": 32.736016,
-    "longitude": 129.886287,
-    "bounds": {
-      "north": 32.736608,
-      "south": 32.734468,
-      "east": 129.887039,
-      "west": 129.885226
-    }
+    "longitude": 129.886287
   },
   {
     "id": 57,
     "town_name": "上小島３丁目",
     "population_age_65_and_over": 301,
     "latitude": 32.732919,
-    "longitude": 129.88796,
-    "bounds": {
-      "north": 32.733419,
-      "south": 32.732419,
-      "east": 129.889096,
-      "west": 129.886649
-    }
+    "longitude": 129.88796
   },
   {
     "id": 58,
     "town_name": "上小島４丁目",
     "population_age_65_and_over": 343,
     "latitude": 32.732388,
-    "longitude": 129.885338,
-    "bounds": {
-      "north": 32.732888,
-      "south": 32.730984,
-      "east": 129.886649,
-      "west": 129.883713
-    }
+    "longitude": 129.885338
   },
   {
     "id": 59,
     "town_name": "上小島５丁目",
     "population_age_65_and_over": 297,
     "latitude": 32.728766,
-    "longitude": 129.88815,
-    "bounds": {
-      "north": 32.729266,
-      "south": 32.728265,
-      "east": 129.889534,
-      "west": 129.886887
-    }
+    "longitude": 129.88815
   },
   {
     "id": 60,
     "town_name": "桜木町",
     "population_age_65_and_over": 198,
     "latitude": 32.729536,
-    "longitude": 129.890919,
-    "bounds": {
-      "north": 32.730188,
-      "south": 32.729036,
-      "east": 129.892942,
-      "west": 129.889534
-    }
+    "longitude": 129.890919
   },
   {
     "id": 61,
     "town_name": "出島町",
     "population_age_65_and_over": 195,
     "latitude": 32.742998,
-    "longitude": 129.872367,
-    "bounds": {
-      "north": 32.743841,
-      "south": 32.742061,
-      "east": 129.872978,
-      "west": 129.87117
-    }
+    "longitude": 129.872367
   },
   {
     "id": 62,
     "town_name": "江戸町",
     "population_age_65_and_over": 51,
     "latitude": 32.744684,
-    "longitude": 129.87359,
-    "bounds": {
-      "north": 32.745537,
-      "south": 32.743841,
-      "east": 129.874847,
-      "west": 129.87309
-    }
+    "longitude": 129.87359
   },
   {
     "id": 63,
     "town_name": "元船町",
     "population_age_65_and_over": 145,
     "latitude": 32.747201,
-    "longitude": 129.869973,
-    "bounds": {
-      "north": 32.748,
-      "south": 32.746701,
-      "east": 129.87156,
-      "west": 129.867013
-    }
+    "longitude": 129.869973
   },
   {
     "id": 64,
     "town_name": "五島町",
     "population_age_65_and_over": 299,
     "latitude": 32.748799,
-    "longitude": 129.87309,
-    "bounds": {
-      "north": 32.749299,
-      "south": 32.747595,
-      "east": 129.873865,
-      "west": 129.871532
-    }
+    "longitude": 129.87309
   },
   {
     "id": 65,
     "town_name": "樺島町",
     "population_age_65_and_over": 183,
     "latitude": 32.746391,
-    "longitude": 129.873147,
-    "bounds": {
-      "north": 32.746891,
-      "south": 32.745537,
-      "east": 129.874154,
-      "west": 129.872647
-    }
+    "longitude": 129.873147
   },
   {
     "id": 66,
     "town_name": "万才町",
     "population_age_65_and_over": 134,
     "latitude": 32.746636,
-    "longitude": 129.875162,
-    "bounds": {
-      "north": 32.747715,
-      "south": 32.745902,
-      "east": 129.875662,
-      "west": 129.874154
-    }
+    "longitude": 129.875162
   },
   {
     "id": 67,
     "town_name": "金屋町",
     "population_age_65_and_over": 147,
     "latitude": 32.749069,
-    "longitude": 129.874641,
-    "bounds": {
-      "north": 32.749793,
-      "south": 32.748569,
-      "east": 129.875593,
-      "west": 129.873865
-    }
+    "longitude": 129.874641
   },
   {
     "id": 68,
     "town_name": "興善町",
     "population_age_65_and_over": 73,
     "latitude": 32.748794,
-    "longitude": 129.876546,
-    "bounds": {
-      "north": 32.749294,
-      "south": 32.748184,
-      "east": 129.877344,
-      "west": 129.875593
-    }
+    "longitude": 129.876546
   },
   {
     "id": 69,
     "town_name": "桜町",
     "population_age_65_and_over": 103,
     "latitude": 32.749966,
-    "longitude": 129.878143,
-    "bounds": {
-      "north": 32.750773,
-      "south": 32.74938,
-      "east": 129.878998,
-      "west": 129.877643
-    }
+    "longitude": 129.878143
   },
   {
     "id": 70,
     "town_name": "恵美須町",
     "population_age_65_and_over": 167,
     "latitude": 32.750517,
-    "longitude": 129.874573,
-    "bounds": {
-      "north": 32.751245,
-      "south": 32.749793,
-      "east": 129.875073,
-      "west": 129.874073
-    }
+    "longitude": 129.874573
   },
   {
     "id": 71,
     "town_name": "大黒町",
     "population_age_65_and_over": 82,
     "latitude": 32.752149,
-    "longitude": 129.872589,
-    "bounds": {
-      "north": 32.752797,
-      "south": 32.751649,
-      "east": 129.873471,
-      "west": 129.871113
-    }
+    "longitude": 129.872589
   },
   {
     "id": 72,
     "town_name": "八千代町",
     "population_age_65_and_over": 5,
     "latitude": 32.755631,
-    "longitude": 129.869636,
-    "bounds": {
-      "north": 32.756608,
-      "south": 32.75389,
-      "east": 129.870564,
-      "west": 129.869136
-    }
+    "longitude": 129.869636
   },
   {
     "id": 73,
     "town_name": "御船蔵町",
     "population_age_65_and_over": 431,
     "latitude": 32.757584,
-    "longitude": 129.871492,
-    "bounds": {
-      "north": 32.758464,
-      "south": 32.756608,
-      "east": 129.87212,
-      "west": 129.870451
-    }
+    "longitude": 129.871492
   },
   {
     "id": 74,
     "town_name": "浜平１丁目",
     "population_age_65_and_over": 230,
     "latitude": 32.759343,
-    "longitude": 129.872749,
-    "bounds": {
-      "north": 32.760106,
-      "south": 32.758464,
-      "east": 129.873871,
-      "west": 129.87212
-    }
+    "longitude": 129.872749
   },
   {
     "id": 75,
     "town_name": "浜平２丁目",
     "population_age_65_and_over": 118,
     "latitude": 32.76087,
-    "longitude": 129.874993,
-    "bounds": {
-      "north": 32.762243,
-      "south": 32.760106,
-      "east": 129.876613,
-      "west": 129.873871
-    }
+    "longitude": 129.874993
   },
   {
     "id": 76,
     "town_name": "西坂町",
     "population_age_65_and_over": 223,
     "latitude": 32.755841,
-    "longitude": 129.874518,
-    "bounds": {
-      "north": 32.756712,
-      "south": 32.754643,
-      "east": 129.875764,
-      "west": 129.874018
-    }
+    "longitude": 129.874518
   },
   {
     "id": 77,
     "town_name": "中町",
     "population_age_65_and_over": 95,
     "latitude": 32.751974,
-    "longitude": 129.874354,
-    "bounds": {
-      "north": 32.752709,
-      "south": 32.751245,
-      "east": 129.874854,
-      "west": 129.873471
-    }
+    "longitude": 129.874354
   },
   {
     "id": 78,
     "town_name": "上町",
     "population_age_65_and_over": 197,
     "latitude": 32.75158,
-    "longitude": 129.877757,
-    "bounds": {
-      "north": 32.752121,
-      "south": 32.750773,
-      "east": 129.878257,
-      "west": 129.877257
-    }
+    "longitude": 129.877757
   },
   {
     "id": 79,
     "town_name": "筑後町",
     "population_age_65_and_over": 226,
     "latitude": 32.753445,
-    "longitude": 129.874457,
-    "bounds": {
-      "north": 32.754643,
-      "south": 32.752709,
-      "east": 129.874957,
-      "west": 129.873957
-    }
+    "longitude": 129.874457
   },
   {
     "id": 80,
     "town_name": "玉園町",
     "population_age_65_and_over": 108,
     "latitude": 32.752661,
-    "longitude": 129.87765,
-    "bounds": {
-      "north": 32.753625,
-      "south": 32.752121,
-      "east": 129.87815,
-      "west": 129.87715
-    }
+    "longitude": 129.87765
   },
   {
     "id": 81,
     "town_name": "八百屋町",
     "population_age_65_and_over": 30,
     "latitude": 32.751667,
-    "longitude": 129.880106,
-    "bounds": {
-      "north": 32.752282,
-      "south": 32.751167,
-      "east": 129.880928,
-      "west": 129.879606
-    }
+    "longitude": 129.880106
   },
   {
     "id": 82,
     "town_name": "立山１丁目",
     "population_age_65_and_over": 130,
     "latitude": 32.754768,
-    "longitude": 129.88004,
-    "bounds": {
-      "north": 32.755846,
-      "south": 32.753833,
-      "east": 129.880895,
-      "west": 129.87954
-    }
+    "longitude": 129.88004
   },
   {
     "id": 83,
     "town_name": "立山２丁目",
     "population_age_65_and_over": 135,
     "latitude": 32.754588,
-    "longitude": 129.877009,
-    "bounds": {
-      "north": 32.755214,
-      "south": 32.753625,
-      "east": 129.877509,
-      "west": 129.875733
-    }
+    "longitude": 129.877009
   },
   {
     "id": 84,
     "town_name": "立山３丁目",
     "population_age_65_and_over": 132,
     "latitude": 32.756875,
-    "longitude": 129.878054,
-    "bounds": {
-      "north": 32.757375,
-      "south": 32.755731,
-      "east": 129.878801,
-      "west": 129.877531
-    }
+    "longitude": 129.878054
   },
   {
     "id": 85,
     "town_name": "立山４丁目",
     "population_age_65_and_over": 154,
     "latitude": 32.756924,
-    "longitude": 129.879547,
-    "bounds": {
-      "north": 32.757424,
-      "south": 32.756424,
-      "east": 129.880047,
-      "west": 129.878801
-    }
+    "longitude": 129.879547
   },
   {
     "id": 86,
     "town_name": "立山５丁目",
     "population_age_65_and_over": 198,
     "latitude": 32.760687,
-    "longitude": 129.878234,
-    "bounds": {
-      "north": 32.761187,
-      "south": 32.758781,
-      "east": 129.879906,
-      "west": 129.876613
-    }
+    "longitude": 129.878234
   },
   {
     "id": 87,
     "town_name": "上西山町",
     "population_age_65_and_over": 153,
     "latitude": 32.75499,
-    "longitude": 129.883802,
-    "bounds": {
-      "north": 32.75549,
-      "south": 32.75449,
-      "east": 129.884668,
-      "west": 129.882776
-    }
+    "longitude": 129.883802
   },
   {
     "id": 88,
     "town_name": "下西山町",
     "population_age_65_and_over": 148,
     "latitude": 32.755804,
-    "longitude": 129.885534,
-    "bounds": {
-      "north": 32.756304,
-      "south": 32.755001,
-      "east": 129.886034,
-      "west": 129.884668
-    }
+    "longitude": 129.885534
   },
   {
     "id": 89,
     "town_name": "西山本町",
     "population_age_65_and_over": 344,
     "latitude": 32.757796,
-    "longitude": 129.883034,
-    "bounds": {
-      "north": 32.759253,
-      "south": 32.756393,
-      "east": 129.883534,
-      "west": 129.881291
-    }
+    "longitude": 129.883034
   },
   {
     "id": 90,
     "town_name": "西山１丁目",
     "population_age_65_and_over": 316,
     "latitude": 32.762289,
-    "longitude": 129.881578,
-    "bounds": {
-      "north": 32.764952,
-      "south": 32.761488,
-      "east": 129.882306,
-      "west": 129.879906
-    }
+    "longitude": 129.881578
   },
   {
     "id": 91,
     "town_name": "西山２丁目",
     "population_age_65_and_over": 323,
     "latitude": 32.760711,
-    "longitude": 129.887133,
-    "bounds": {
-      "north": 32.761211,
-      "south": 32.759253,
-      "east": 129.888441,
-      "west": 129.885084
-    }
+    "longitude": 129.887133
   },
   {
     "id": 92,
     "town_name": "西山３丁目",
     "population_age_65_and_over": 387,
     "latitude": 32.767616,
-    "longitude": 129.887491,
-    "bounds": {
-      "north": 32.77116,
-      "south": 32.767116,
-      "east": 129.890202,
-      "west": 129.886991
-    }
+    "longitude": 129.887491
   },
   {
     "id": 93,
     "town_name": "西山４丁目",
     "population_age_65_and_over": 281,
     "latitude": 32.774705,
-    "longitude": 129.888875,
-    "bounds": {
-      "north": 32.775959,
-      "south": 32.77116,
-      "east": 129.891027,
-      "west": 129.886319
-    }
+    "longitude": 129.888875
   },
   {
     "id": 94,
     "town_name": "西山台１丁目",
     "population_age_65_and_over": 229,
     "latitude": 32.782031,
-    "longitude": 129.888167,
-    "bounds": {
-      "north": 32.782747,
-      "south": 32.781531,
-      "east": 129.890673,
-      "west": 129.885962
-    }
+    "longitude": 129.888167
   },
   {
     "id": 95,
     "town_name": "西山台２丁目",
     "population_age_65_and_over": 331,
     "latitude": 32.781751,
-    "longitude": 129.893179,
-    "bounds": {
-      "north": 32.782251,
-      "south": 32.778228,
-      "east": 129.894306,
-      "west": 129.890673
-    }
+    "longitude": 129.893179
   },
   {
     "id": 96,
     "town_name": "片淵１丁目",
     "population_age_65_and_over": 194,
     "latitude": 32.754198,
-    "longitude": 129.886044,
-    "bounds": {
-      "north": 32.755001,
-      "south": 32.753504,
-      "east": 129.886768,
-      "west": 129.885544
-    }
+    "longitude": 129.886044
   },
   {
     "id": 97,
     "town_name": "片淵２丁目",
     "population_age_65_and_over": 198,
     "latitude": 32.756039,
-    "longitude": 129.887491,
-    "bounds": {
-      "north": 32.756539,
-      "south": 32.755539,
-      "east": 129.888566,
-      "west": 129.886513
-    }
+    "longitude": 129.887491
   },
   {
     "id": 98,
     "town_name": "片淵３丁目",
     "population_age_65_and_over": 301,
     "latitude": 32.761945,
-    "longitude": 129.892965,
-    "bounds": {
-      "north": 32.764645,
-      "south": 32.761445,
-      "east": 129.896615,
-      "west": 129.891357
-    }
+    "longitude": 129.892965
   },
   {
     "id": 99,
     "town_name": "片淵４丁目",
     "population_age_65_and_over": 264,
     "latitude": 32.761169,
-    "longitude": 129.889748,
-    "bounds": {
-      "north": 32.761669,
-      "south": 32.760669,
-      "east": 129.891357,
-      "west": 129.888441
-    }
+    "longitude": 129.889748
   },
   {
     "id": 100,
     "town_name": "片淵５丁目",
     "population_age_65_and_over": 324,
     "latitude": 32.767345,
-    "longitude": 129.892913,
-    "bounds": {
-      "north": 32.767845,
-      "south": 32.764645,
-      "east": 129.893413,
-      "west": 129.890202
-    }
+    "longitude": 129.892913
   },
   {
     "id": 101,
     "town_name": "夫婦川町",
     "population_age_65_and_over": 199,
     "latitude": 32.754822,
-    "longitude": 129.88964,
-    "bounds": {
-      "north": 32.755431,
-      "south": 32.754185,
-      "east": 129.890242,
-      "west": 129.888566
-    }
+    "longitude": 129.88964
   },
   {
     "id": 102,
     "town_name": "鳴滝１丁目",
     "population_age_65_and_over": 309,
     "latitude": 32.755801,
-    "longitude": 129.895574,
-    "bounds": {
-      "north": 32.756301,
-      "south": 32.753885,
-      "east": 129.896561,
-      "west": 129.893798
-    }
+    "longitude": 129.895574
   },
   {
     "id": 103,
     "town_name": "鳴滝２丁目",
     "population_age_65_and_over": 144,
     "latitude": 32.756727,
-    "longitude": 129.892022,
-    "bounds": {
-      "north": 32.758948,
-      "south": 32.755775,
-      "east": 129.893798,
-      "west": 129.890831
-    }
+    "longitude": 129.892022
   },
   {
     "id": 104,
     "town_name": "鳴滝３丁目",
     "population_age_65_and_over": 195,
     "latitude": 32.761884,
-    "longitude": 129.900265,
-    "bounds": {
-      "north": 32.762384,
-      "south": 32.758843,
-      "east": 129.901293,
-      "west": 129.896615
-    }
+    "longitude": 129.900265
   },
   {
     "id": 105,
     "town_name": "木場町",
     "population_age_65_and_over": 118,
     "latitude": 32.773034,
-    "longitude": 129.903794,
-    "bounds": {
-      "north": 32.777393,
-      "south": 32.77019,
-      "east": 129.90883,
-      "west": 129.898353
-    }
+    "longitude": 129.903794
   },
   {
     "id": 106,
     "town_name": "宝栄町",
     "population_age_65_and_over": 240,
     "latitude": 32.769688,
-    "longitude": 129.859996,
-    "bounds": {
-      "north": 32.771145,
-      "south": 32.768827,
-      "east": 129.861773,
-      "west": 129.858979
-    }
+    "longitude": 129.859996
   },
   {
     "id": 107,
     "town_name": "岩見町",
     "population_age_65_and_over": 479,
     "latitude": 32.767632,
-    "longitude": 129.853576,
-    "bounds": {
-      "north": 32.769576,
-      "south": 32.765301,
-      "east": 129.854076,
-      "west": 129.85214
-    }
+    "longitude": 129.853576
   },
   {
     "id": 108,
     "town_name": "春木町",
     "population_age_65_and_over": 225,
     "latitude": 32.762971,
-    "longitude": 129.852792,
-    "bounds": {
-      "north": 32.765301,
-      "south": 32.761201,
-      "east": 129.854168,
-      "west": 129.849395
-    }
+    "longitude": 129.852792
   },
   {
     "id": 109,
     "town_name": "竹の久保町",
     "population_age_65_and_over": 202,
     "latitude": 32.765971,
-    "longitude": 129.859931,
-    "bounds": {
-      "north": 32.766969,
-      "south": 32.765471,
-      "east": 129.861223,
-      "west": 129.859374
-    }
+    "longitude": 129.859931
   },
   {
     "id": 110,
     "town_name": "梁川町",
     "population_age_65_and_over": 287,
     "latitude": 32.762513,
-    "longitude": 129.858817,
-    "bounds": {
-      "north": 32.764242,
-      "south": 32.760971,
-      "east": 129.859374,
-      "west": 129.85718
-    }
+    "longitude": 129.858817
   },
   {
     "id": 111,
     "town_name": "淵町",
     "population_age_65_and_over": 222,
     "latitude": 32.75943,
-    "longitude": 129.855544,
-    "bounds": {
-      "north": 32.760971,
-      "south": 32.757753,
-      "east": 129.85718,
-      "west": 129.855044
-    }
+    "longitude": 129.855544
   },
   {
     "id": 112,
     "town_name": "稲佐町",
     "population_age_65_and_over": 512,
     "latitude": 32.756075,
-    "longitude": 129.855261,
-    "bounds": {
-      "north": 32.757753,
-      "south": 32.754872,
-      "east": 129.855761,
-      "west": 129.854027
-    }
+    "longitude": 129.855261
   },
   {
     "id": 113,
     "town_name": "光町",
     "population_age_65_and_over": 130,
     "latitude": 32.755205,
-    "longitude": 129.863958,
-    "bounds": {
-      "north": 32.756631,
-      "south": 32.754049,
-      "east": 129.864458,
-      "west": 129.861087
-    }
+    "longitude": 129.863958
   },
   {
     "id": 114,
     "town_name": "曙町",
     "population_age_65_and_over": 459,
     "latitude": 32.753668,
-    "longitude": 129.858217,
-    "bounds": {
-      "north": 32.754872,
-      "south": 32.752422,
-      "east": 129.858717,
-      "west": 129.857115
-    }
+    "longitude": 129.858217
   },
   {
     "id": 115,
     "town_name": "弁天町",
     "population_age_65_and_over": 173,
     "latitude": 32.752893,
-    "longitude": 129.864099,
-    "bounds": {
-      "north": 32.754049,
-      "south": 32.751723,
-      "east": 129.864705,
-      "west": 129.863599
-    }
+    "longitude": 129.864099
   },
   {
     "id": 116,
     "town_name": "旭町",
     "population_age_65_and_over": 436,
     "latitude": 32.750554,
-    "longitude": 129.864054,
-    "bounds": {
-      "north": 32.751723,
-      "south": 32.749167,
-      "east": 129.864554,
-      "west": 129.862993
-    }
+    "longitude": 129.864054
   },
   {
     "id": 117,
     "town_name": "江の浦町",
     "population_age_65_and_over": 262,
     "latitude": 32.751731,
-    "longitude": 129.856014,
-    "bounds": {
-      "north": 32.752699,
-      "south": 32.751231,
-      "east": 129.857252,
-      "west": 129.854963
-    }
+    "longitude": 129.856014
   },
   {
     "id": 118,
     "town_name": "平戸小屋町",
     "population_age_65_and_over": 258,
     "latitude": 32.751177,
-    "longitude": 129.85849,
-    "bounds": {
-      "north": 32.751677,
-      "south": 32.749851,
-      "east": 129.86021,
-      "west": 129.857252
-    }
+    "longitude": 129.85849
   },
   {
     "id": 119,
     "town_name": "大鳥町",
     "population_age_65_and_over": 333,
     "latitude": 32.748526,
-    "longitude": 129.858399,
-    "bounds": {
-      "north": 32.749851,
-      "south": 32.748026,
-      "east": 129.858899,
-      "west": 129.857206
-    }
+    "longitude": 129.858399
   },
   {
     "id": 120,
     "town_name": "丸尾町",
     "population_age_65_and_over": 37,
     "latitude": 32.74778,
-    "longitude": 129.861931,
-    "bounds": {
-      "north": 32.74828,
-      "south": 32.745504,
-      "east": 129.862993,
-      "west": 129.860165
-    }
+    "longitude": 129.861931
   },
   {
     "id": 121,
     "town_name": "水の浦町",
     "population_age_65_and_over": 169,
     "latitude": 32.748933,
-    "longitude": 129.853913,
-    "bounds": {
-      "north": 32.750332,
-      "south": 32.748001,
-      "east": 129.854413,
-      "west": 129.851483
-    }
+    "longitude": 129.853913
   },
   {
     "id": 122,
     "town_name": "大谷町",
     "population_age_65_and_over": 253,
     "latitude": 32.747068,
-    "longitude": 129.853987,
-    "bounds": {
-      "north": 32.748001,
-      "south": 32.745148,
-      "east": 129.856193,
-      "west": 129.853487
-    }
+    "longitude": 129.853987
   },
   {
     "id": 123,
     "town_name": "飽の浦町",
     "population_age_65_and_over": 126,
     "latitude": 32.743229,
-    "longitude": 129.85688,
-    "bounds": {
-      "north": 32.745148,
-      "south": 32.740528,
-      "east": 129.85764,
-      "west": 129.855434
-    }
+    "longitude": 129.85688
   },
   {
     "id": 124,
     "town_name": "秋月町",
     "population_age_65_and_over": 274,
     "latitude": 32.747477,
-    "longitude": 129.849053,
-    "bounds": {
-      "north": 32.748205,
-      "south": 32.746296,
-      "east": 129.85152,
-      "west": 129.84734
-    }
+    "longitude": 129.849053
   },
   {
     "id": 125,
     "town_name": "入船町",
     "population_age_65_and_over": 373,
     "latitude": 32.745115,
-    "longitude": 129.845627,
-    "bounds": {
-      "north": 32.746296,
-      "south": 32.742986,
-      "east": 129.84734,
-      "west": 129.84237
-    }
+    "longitude": 129.845627
   },
   {
     "id": 126,
     "town_name": "塩浜町",
     "population_age_65_and_over": 85,
     "latitude": 32.740856,
-    "longitude": 129.850326,
-    "bounds": {
-      "north": 32.742986,
-      "south": 32.739143,
-      "east": 129.852453,
-      "west": 129.849826
-    }
+    "longitude": 129.850326
   },
   {
     "id": 127,
     "town_name": "岩瀬道町",
     "population_age_65_and_over": 85,
     "latitude": 32.737828,
-    "longitude": 129.85458,
-    "bounds": {
-      "north": 32.739342,
-      "south": 32.737328,
-      "east": 129.85573,
-      "west": 129.852258
-    }
+    "longitude": 129.85458
   },
   {
     "id": 128,
     "town_name": "東立神町",
     "population_age_65_and_over": 193,
     "latitude": 32.737431,
-    "longitude": 129.849935,
-    "bounds": {
-      "north": 32.739143,
-      "south": 32.735878,
-      "east": 129.850435,
-      "west": 129.847781
-    }
+    "longitude": 129.849935
   },
   {
     "id": 129,
     "town_name": "西立神町",
     "population_age_65_and_over": 111,
     "latitude": 32.734326,
-    "longitude": 129.850883,
-    "bounds": {
-      "north": 32.735878,
-      "south": 32.731445,
-      "east": 129.852732,
-      "west": 129.850383
-    }
+    "longitude": 129.850883
   },
   {
     "id": 130,
     "town_name": "西泊町",
     "population_age_65_and_over": 136,
     "latitude": 32.728563,
-    "longitude": 129.848716,
-    "bounds": {
-      "north": 32.731445,
-      "south": 32.726719,
-      "east": 129.8498,
-      "west": 129.845503
-    }
+    "longitude": 129.848716
   },
   {
     "id": 131,
     "town_name": "小江原１丁目",
     "population_age_65_and_over": 524,
     "latitude": 32.787118,
-    "longitude": 129.837022,
-    "bounds": {
-      "north": 32.78836,
-      "south": 32.784687,
-      "east": 129.837867,
-      "west": 129.833943
-    }
+    "longitude": 129.837022
   },
   {
     "id": 132,
     "town_name": "小江原２丁目",
     "population_age_65_and_over": 688,
     "latitude": 32.779058,
-    "longitude": 129.838712,
-    "bounds": {
-      "north": 32.779558,
-      "south": 32.776663,
-      "east": 129.841485,
-      "west": 129.83559
-    }
+    "longitude": 129.838712
   },
   {
     "id": 133,
     "town_name": "小江原３丁目",
     "population_age_65_and_over": 477,
     "latitude": 32.779452,
-    "longitude": 129.832468,
-    "bounds": {
-      "north": 32.780854,
-      "south": 32.778952,
-      "east": 129.83559,
-      "west": 129.831666
-    }
+    "longitude": 129.832468
   },
   {
     "id": 134,
     "town_name": "小江原４丁目",
     "population_age_65_and_over": 787,
     "latitude": 32.782256,
-    "longitude": 129.830864,
-    "bounds": {
-      "north": 32.78339,
-      "south": 32.780854,
-      "east": 129.831666,
-      "west": 129.829118
-    }
+    "longitude": 129.830864
   },
   {
     "id": 135,
     "town_name": "小江原５丁目",
     "population_age_65_and_over": 81,
     "latitude": 32.784525,
-    "longitude": 129.827372,
-    "bounds": {
-      "north": 32.785821,
-      "south": 32.78339,
-      "east": 129.829118,
-      "west": 129.822614
-    }
+    "longitude": 129.827372
   },
   {
     "id": 136,
     "town_name": "船大工町",
     "population_age_65_and_over": 34,
     "latitude": 32.741967,
-    "longitude": 129.878799,
-    "bounds": {
-      "north": 32.742467,
-      "south": 32.741467,
-      "east": 129.879386,
-      "west": 129.878299
-    }
+    "longitude": 129.878799
   },
   {
     "id": 137,
     "town_name": "本石灰町",
     "population_age_65_and_over": 60,
     "latitude": 32.74217,
-    "longitude": 129.879973,
-    "bounds": {
-      "north": 32.74267,
-      "south": 32.74167,
-      "east": 129.880473,
-      "west": 129.879386
-    }
+    "longitude": 129.879973
   },
   {
     "id": 138,
     "town_name": "丸山町",
     "population_age_65_and_over": 153,
     "latitude": 32.741153,
-    "longitude": 129.880569,
-    "bounds": {
-      "north": 32.741661,
-      "south": 32.74055,
-      "east": 129.881224,
-      "west": 129.880069
-    }
+    "longitude": 129.880569
   },
   {
     "id": 139,
     "town_name": "寄合町",
     "population_age_65_and_over": 175,
     "latitude": 32.739947,
-    "longitude": 129.879648,
-    "bounds": {
-      "north": 32.740447,
-      "south": 32.739255,
-      "east": 129.880148,
-      "west": 129.879009
-    }
+    "longitude": 129.879648
   },
   {
     "id": 140,
     "town_name": "中小島１丁目",
     "population_age_65_and_over": 133,
     "latitude": 32.738564,
-    "longitude": 129.881004,
-    "bounds": {
-      "north": 32.739255,
-      "south": 32.737332,
-      "east": 129.881943,
-      "west": 129.880326
-    }
+    "longitude": 129.881004
   },
   {
     "id": 141,
     "town_name": "中小島２丁目",
     "population_age_65_and_over": 394,
     "latitude": 32.7361,
-    "longitude": 129.881357,
-    "bounds": {
-      "north": 32.7366,
-      "south": 32.734312,
-      "east": 129.882761,
-      "west": 129.880429
-    }
+    "longitude": 129.881357
   },
   {
     "id": 142,
     "town_name": "西小島１丁目",
     "population_age_65_and_over": 90,
     "latitude": 32.739998,
-    "longitude": 129.878371,
-    "bounds": {
-      "north": 32.740498,
-      "south": 32.739498,
-      "east": 129.879009,
-      "west": 129.877724
-    }
+    "longitude": 129.878371
   },
   {
     "id": 143,
     "town_name": "西小島２丁目",
     "population_age_65_and_over": 235,
     "latitude": 32.736191,
-    "longitude": 129.879502,
-    "bounds": {
-      "north": 32.736691,
-      "south": 32.735691,
-      "east": 129.880429,
-      "west": 129.878698
-    }
+    "longitude": 129.879502
   },
   {
     "id": 144,
     "town_name": "館内町",
     "population_age_65_and_over": 161,
     "latitude": 32.738959,
-    "longitude": 129.877078,
-    "bounds": {
-      "north": 32.739479,
-      "south": 32.738459,
-      "east": 129.877724,
-      "west": 129.876116
-    }
+    "longitude": 129.877078
   },
   {
     "id": 145,
     "town_name": "稲田町",
     "population_age_65_and_over": 218,
     "latitude": 32.736855,
-    "longitude": 129.877894,
-    "bounds": {
-      "north": 32.737907,
-      "south": 32.736323,
-      "east": 129.878698,
-      "west": 129.877394
-    }
+    "longitude": 129.877894
   },
   {
     "id": 146,
     "town_name": "中新町",
     "population_age_65_and_over": 239,
     "latitude": 32.735791,
-    "longitude": 129.877038,
-    "bounds": {
-      "north": 32.736323,
-      "south": 32.734745,
-      "east": 129.877538,
-      "west": 129.876538
-    }
+    "longitude": 129.877038
   },
   {
     "id": 147,
     "town_name": "十人町",
     "population_age_65_and_over": 217,
     "latitude": 32.738801,
-    "longitude": 129.875153,
-    "bounds": {
-      "north": 32.739382,
-      "south": 32.737961,
-      "east": 129.876116,
-      "west": 129.874653
-    }
+    "longitude": 129.875153
   },
   {
     "id": 148,
     "town_name": "籠町",
     "population_age_65_and_over": 146,
     "latitude": 32.740852,
-    "longitude": 129.87648,
-    "bounds": {
-      "north": 32.741352,
-      "south": 32.740352,
-      "east": 129.877425,
-      "west": 129.875516
-    }
+    "longitude": 129.87648
   },
   {
     "id": 149,
     "town_name": "新地町",
     "population_age_65_and_over": 158,
     "latitude": 32.741123,
-    "longitude": 129.874551,
-    "bounds": {
-      "north": 32.742053,
-      "south": 32.740543,
-      "east": 129.875516,
-      "west": 129.874051
-    }
+    "longitude": 129.874551
   },
   {
     "id": 150,
     "town_name": "梅香崎町",
     "population_age_65_and_over": 49,
     "latitude": 32.739962,
-    "longitude": 129.874188,
-    "bounds": {
-      "north": 32.740543,
-      "south": 32.739382,
-      "east": 129.874688,
-      "west": 129.873688
-    }
+    "longitude": 129.874188
   },
   {
     "id": 151,
     "town_name": "相生町",
     "population_age_65_and_over": 191,
     "latitude": 32.733844,
-    "longitude": 129.871781,
-    "bounds": {
-      "north": 32.734344,
-      "south": 32.732973,
-      "east": 129.872544,
-      "west": 129.871281
-    }
+    "longitude": 129.871781
   },
   {
     "id": 152,
     "town_name": "大浦町",
     "population_age_65_and_over": 497,
     "latitude": 32.736614,
-    "longitude": 129.871739,
-    "bounds": {
-      "north": 32.737114,
-      "south": 32.735441,
-      "east": 129.872853,
-      "west": 129.869956
-    }
+    "longitude": 129.871739
   },
   {
     "id": 153,
     "town_name": "東山手町",
     "population_age_65_and_over": 132,
     "latitude": 32.737122,
-    "longitude": 129.873968,
-    "bounds": {
-      "north": 32.737961,
-      "south": 32.736622,
-      "east": 129.874561,
-      "west": 129.872853
-    }
+    "longitude": 129.873968
   },
   {
     "id": 154,
     "town_name": "下町",
     "population_age_65_and_over": 93,
     "latitude": 32.734267,
-    "longitude": 129.873306,
-    "bounds": {
-      "north": 32.735441,
-      "south": 32.733767,
-      "east": 129.874047,
-      "west": 129.872544
-    }
+    "longitude": 129.873306
   },
   {
     "id": 155,
     "town_name": "東山町",
     "population_age_65_and_over": 101,
     "latitude": 32.734022,
-    "longitude": 129.874788,
-    "bounds": {
-      "north": 32.734522,
-      "south": 32.733383,
-      "east": 129.875816,
-      "west": 129.874047
-    }
+    "longitude": 129.874788
   },
   {
     "id": 156,
     "town_name": "大浦東町",
     "population_age_65_and_over": 66,
     "latitude": 32.732743,
-    "longitude": 129.87341,
-    "bounds": {
-      "north": 32.733505,
-      "south": 32.732243,
-      "east": 129.874099,
-      "west": 129.87291
-    }
+    "longitude": 129.87341
   },
   {
     "id": 157,
     "town_name": "日の出町",
     "population_age_65_and_over": 224,
     "latitude": 32.731733,
-    "longitude": 129.875294,
-    "bounds": {
-      "north": 32.732238,
-      "south": 32.730265,
-      "east": 129.876069,
-      "west": 129.874352
-    }
+    "longitude": 129.875294
   },
   {
     "id": 158,
     "town_name": "元町",
     "population_age_65_and_over": 122,
     "latitude": 32.733699,
-    "longitude": 129.876845,
-    "bounds": {
-      "north": 32.734199,
-      "south": 32.732716,
-      "east": 129.877345,
-      "west": 129.875816
-    }
+    "longitude": 129.876845
   },
   {
     "id": 159,
     "town_name": "川上町",
     "population_age_65_and_over": 301,
     "latitude": 32.72789,
-    "longitude": 129.878,
-    "bounds": {
-      "north": 32.72839,
-      "south": 32.726113,
-      "east": 129.87934,
-      "west": 129.875739
-    }
+    "longitude": 129.878
   },
   {
     "id": 160,
     "town_name": "椎の木町",
     "population_age_65_and_over": 319,
     "latitude": 32.728725,
-    "longitude": 129.88068,
-    "bounds": {
-      "north": 32.729225,
-      "south": 32.728225,
-      "east": 129.881735,
-      "west": 129.87934
-    }
+    "longitude": 129.88068
   },
   {
     "id": 161,
     "town_name": "高丘１丁目",
     "population_age_65_and_over": 114,
     "latitude": 32.732652,
-    "longitude": 129.879459,
-    "bounds": {
-      "north": 32.733176,
-      "south": 32.732152,
-      "east": 129.880773,
-      "west": 129.878152
-    }
+    "longitude": 129.879459
   },
   {
     "id": 162,
     "town_name": "高丘２丁目",
     "population_age_65_and_over": 127,
     "latitude": 32.732524,
-    "longitude": 129.882087,
-    "bounds": {
-      "north": 32.733024,
-      "south": 32.732024,
-      "east": 129.883713,
-      "west": 129.880773
-    }
+    "longitude": 129.882087
   },
   {
     "id": 163,
     "town_name": "南町",
     "population_age_65_and_over": 136,
     "latitude": 32.72958,
-    "longitude": 129.88279,
-    "bounds": {
-      "north": 32.731052,
-      "south": 32.72908,
-      "east": 129.884207,
-      "west": 129.881735
-    }
+    "longitude": 129.88279
   },
   {
     "id": 164,
     "town_name": "南が丘町",
     "population_age_65_and_over": 196,
     "latitude": 32.727765,
-    "longitude": 129.885623,
-    "bounds": {
-      "north": 32.728265,
-      "south": 32.726958,
-      "east": 129.886123,
-      "west": 129.884736
-    }
+    "longitude": 129.885623
   },
   {
     "id": 165,
     "town_name": "八景町",
     "population_age_65_and_over": 264,
     "latitude": 32.726151,
-    "longitude": 129.883848,
-    "bounds": {
-      "north": 32.726958,
-      "south": 32.725651,
-      "east": 129.884736,
-      "west": 129.883319
-    }
+    "longitude": 129.883848
   },
   {
     "id": 166,
     "town_name": "星取１丁目",
     "population_age_65_and_over": 126,
     "latitude": 32.723195,
-    "longitude": 129.881179,
-    "bounds": {
-      "north": 32.724673,
-      "south": 32.722623,
-      "east": 129.882514,
-      "west": 129.87959
-    }
+    "longitude": 129.881179
   },
   {
     "id": 167,
     "town_name": "星取２丁目",
     "population_age_65_and_over": 127,
     "latitude": 32.71885,
-    "longitude": 129.88529,
-    "bounds": {
-      "north": 32.720451,
-      "south": 32.713198,
-      "east": 129.885898,
-      "west": 129.883235
-    }
+    "longitude": 129.88529
   },
   {
     "id": 168,
     "town_name": "出雲１丁目",
     "population_age_65_and_over": 251,
     "latitude": 32.728796,
-    "longitude": 129.873477,
-    "bounds": {
-      "north": 32.730265,
-      "south": 32.728296,
-      "east": 129.874386,
-      "west": 129.871674
-    }
+    "longitude": 129.873477
   },
   {
     "id": 169,
     "town_name": "出雲２丁目",
     "population_age_65_and_over": 163,
     "latitude": 32.728616,
-    "longitude": 129.869872,
-    "bounds": {
-      "north": 32.729878,
-      "south": 32.726058,
-      "east": 129.871674,
-      "west": 129.869372
-    }
+    "longitude": 129.869872
   },
   {
     "id": 170,
     "town_name": "出雲３丁目",
     "population_age_65_and_over": 135,
     "latitude": 32.724337,
-    "longitude": 129.873883,
-    "bounds": {
-      "north": 32.726567,
-      "south": 32.723837,
-      "east": 129.875942,
-      "west": 129.872072
-    }
+    "longitude": 129.873883
   },
   {
     "id": 171,
     "town_name": "上田町",
     "population_age_65_and_over": 157,
     "latitude": 32.732101,
-    "longitude": 129.871725,
-    "bounds": {
-      "north": 32.732601,
-      "south": 32.731601,
-      "east": 129.872568,
-      "west": 129.870426
-    }
+    "longitude": 129.871725
   },
   {
     "id": 172,
     "town_name": "南山手町",
     "population_age_65_and_over": 127,
     "latitude": 32.733205,
-    "longitude": 129.869126,
-    "bounds": {
-      "north": 32.733705,
-      "south": 32.732173,
-      "east": 129.870453,
-      "west": 129.868626
-    }
+    "longitude": 129.869126
   },
   {
     "id": 173,
     "town_name": "松が枝町",
     "population_age_65_and_over": 150,
     "latitude": 32.736011,
-    "longitude": 129.868172,
-    "bounds": {
-      "north": 32.736511,
-      "south": 32.73505,
-      "east": 129.868672,
-      "west": 129.867396
-    }
+    "longitude": 129.868172
   },
   {
     "id": 174,
     "town_name": "小曽根町",
     "population_age_65_and_over": 30,
     "latitude": 32.734088,
-    "longitude": 129.866621,
-    "bounds": {
-      "north": 32.73505,
-      "south": 32.733588,
-      "east": 129.867874,
-      "west": 129.865816
-    }
+    "longitude": 129.866621
   },
   {
     "id": 175,
     "town_name": "浪の平町",
     "population_age_65_and_over": 34,
     "latitude": 32.732011,
-    "longitude": 129.865011,
-    "bounds": {
-      "north": 32.733049,
-      "south": 32.731008,
-      "east": 129.865816,
-      "west": 129.864057
-    }
+    "longitude": 129.865011
   },
   {
     "id": 176,
     "town_name": "古河町",
     "population_age_65_and_over": 30,
     "latitude": 32.730005,
-    "longitude": 129.863103,
-    "bounds": {
-      "north": 32.731008,
-      "south": 32.729191,
-      "east": 129.864444,
-      "west": 129.862603
-    }
+    "longitude": 129.863103
   },
   {
     "id": 177,
     "town_name": "東琴平１丁目",
     "population_age_65_and_over": 120,
     "latitude": 32.729438,
-    "longitude": 129.865785,
-    "bounds": {
-      "north": 32.729938,
-      "south": 32.728908,
-      "east": 129.867391,
-      "west": 129.864444
-    }
+    "longitude": 129.865785
   },
   {
     "id": 178,
     "town_name": "東琴平２丁目",
     "population_age_65_and_over": 70,
     "latitude": 32.731141,
-    "longitude": 129.868997,
-    "bounds": {
-      "north": 32.732173,
-      "south": 32.729878,
-      "east": 129.869497,
-      "west": 129.867391
-    }
+    "longitude": 129.868997
   },
   {
     "id": 179,
     "town_name": "西琴平町",
     "population_age_65_and_over": 144,
     "latitude": 32.728378,
-    "longitude": 129.862817,
-    "bounds": {
-      "north": 32.729191,
-      "south": 32.727242,
-      "east": 129.863317,
-      "west": 129.860841
-    }
+    "longitude": 129.862817
   },
   {
     "id": 180,
     "town_name": "国分町",
     "population_age_65_and_over": 108,
     "latitude": 32.725995,
-    "longitude": 129.858865,
-    "bounds": {
-      "north": 32.727187,
-      "south": 32.725286,
-      "east": 129.859868,
-      "west": 129.858365
-    }
+    "longitude": 129.858865
   },
   {
     "id": 181,
     "town_name": "小菅町",
     "population_age_65_and_over": 380,
     "latitude": 32.726106,
-    "longitude": 129.864493,
-    "bounds": {
-      "north": 32.727242,
-      "south": 32.724895,
-      "east": 129.865183,
-      "west": 129.863655
-    }
+    "longitude": 129.864493
   },
   {
     "id": 182,
     "town_name": "戸町１丁目",
     "population_age_65_and_over": 248,
     "latitude": 32.724577,
-    "longitude": 129.860871,
-    "bounds": {
-      "north": 32.725286,
-      "south": 32.724077,
-      "east": 129.862682,
-      "west": 129.859868
-    }
+    "longitude": 129.860871
   },
   {
     "id": 183,
     "town_name": "戸町２丁目",
     "population_age_65_and_over": 582,
     "latitude": 32.723684,
-    "longitude": 129.865873,
-    "bounds": {
-      "north": 32.724895,
-      "south": 32.723184,
-      "east": 129.868067,
-      "west": 129.865183
-    }
+    "longitude": 129.865873
   },
   {
     "id": 184,
     "town_name": "戸町３丁目",
     "population_age_65_and_over": 235,
     "latitude": 32.718618,
-    "longitude": 129.863843,
-    "bounds": {
-      "north": 32.719118,
-      "south": 32.718118,
-      "east": 129.866295,
-      "west": 129.861159
-    }
+    "longitude": 129.863843
   },
   {
     "id": 185,
     "town_name": "戸町４丁目",
     "population_age_65_and_over": 231,
     "latitude": 32.719373,
-    "longitude": 129.858476,
-    "bounds": {
-      "north": 32.721975,
-      "south": 32.71802,
-      "east": 129.861159,
-      "west": 129.856717
-    }
+    "longitude": 129.858476
   },
   {
     "id": 186,
     "town_name": "戸町５丁目",
     "population_age_65_and_over": 5,
     "latitude": 32.716668,
-    "longitude": 129.854957,
-    "bounds": {
-      "north": 32.71802,
-      "south": 32.714745,
-      "east": 129.856717,
-      "west": 129.854049
-    }
+    "longitude": 129.854957
   },
   {
     "id": 187,
     "town_name": "上戸町",
     "population_age_65_and_over": 30,
     "latitude": 32.7235,
-    "longitude": 129.870261,
-    "bounds": {
-      "north": 32.724,
-      "south": 32.720743,
-      "east": 129.872072,
-      "west": 129.868067
-    }
+    "longitude": 129.870261
   },
   {
     "id": 188,
     "town_name": "上戸町１丁目",
     "population_age_65_and_over": 246,
     "latitude": 32.717985,
-    "longitude": 129.868747,
-    "bounds": {
-      "north": 32.718485,
-      "south": 32.717276,
-      "east": 129.869422,
-      "west": 129.868193
-    }
+    "longitude": 129.868747
   },
   {
     "id": 189,
     "town_name": "上戸町２丁目",
     "population_age_65_and_over": 328,
     "latitude": 32.715715,
-    "longitude": 129.867638,
-    "bounds": {
-      "north": 32.716215,
-      "south": 32.714151,
-      "east": 129.868867,
-      "west": 129.866797
-    }
+    "longitude": 129.867638
   },
   {
     "id": 190,
     "town_name": "上戸町３丁目",
     "population_age_65_and_over": 130,
     "latitude": 32.716567,
-    "longitude": 129.870097,
-    "bounds": {
-      "north": 32.717276,
-      "south": 32.716067,
-      "east": 129.871039,
-      "west": 129.869422
-    }
+    "longitude": 129.870097
   },
   {
     "id": 191,
     "town_name": "上戸町４丁目",
     "population_age_65_and_over": 156,
     "latitude": 32.707545,
-    "longitude": 129.883174,
-    "bounds": {
-      "north": 32.709473,
-      "south": 32.707045,
-      "east": 129.884232,
-      "west": 129.878246
-    }
+    "longitude": 129.883174
   },
   {
     "id": 192,
     "town_name": "新戸町１丁目",
     "population_age_65_and_over": 412,
     "latitude": 32.712822,
-    "longitude": 129.860792,
-    "bounds": {
-      "north": 32.714745,
-      "south": 32.712322,
-      "east": 129.863374,
-      "west": 129.860125
-    }
+    "longitude": 129.860792
   },
   {
     "id": 193,
     "town_name": "新戸町２丁目",
     "population_age_65_and_over": 241,
     "latitude": 32.712588,
-    "longitude": 129.865956,
-    "bounds": {
-      "north": 32.714151,
-      "south": 32.711994,
-      "east": 129.866797,
-      "west": 129.863374
-    }
+    "longitude": 129.865956
   },
   {
     "id": 194,
     "town_name": "新戸町３丁目",
     "population_age_65_and_over": 373,
     "latitude": 32.707258,
-    "longitude": 129.873319,
-    "bounds": {
-      "north": 32.709329,
-      "south": 32.705601,
-      "east": 129.878246,
-      "west": 129.87265
-    }
+    "longitude": 129.873319
   },
   {
     "id": 195,
     "town_name": "新戸町４丁目",
     "population_age_65_and_over": 49,
     "latitude": 32.7114,
-    "longitude": 129.871981,
-    "bounds": {
-      "north": 32.711994,
-      "south": 32.709329,
-      "east": 129.87265,
-      "west": 129.868968
-    }
+    "longitude": 129.871981
   },
   {
     "id": 196,
     "town_name": "宝町",
     "population_age_65_and_over": 125,
     "latitude": 32.75894,
-    "longitude": 129.867426,
-    "bounds": {
-      "north": 32.75944,
-      "south": 32.75844,
-      "east": 129.868418,
-      "west": 129.866368
-    }
+    "longitude": 129.867426
   },
   {
     "id": 197,
     "town_name": "幸町",
     "population_age_65_and_over": 19,
     "latitude": 32.758057,
-    "longitude": 129.865311,
-    "bounds": {
-      "north": 32.758557,
-      "south": 32.756631,
-      "east": 129.866368,
-      "west": 129.864634
-    }
+    "longitude": 129.865311
   },
   {
     "id": 198,
     "town_name": "天神町",
     "population_age_65_and_over": 202,
     "latitude": 32.759262,
-    "longitude": 129.86941,
-    "bounds": {
-      "north": 32.760209,
-      "south": 32.758762,
-      "east": 129.870451,
-      "west": 129.868418
-    }
+    "longitude": 129.86941
   },
   {
     "id": 199,
     "town_name": "銭座町",
     "population_age_65_and_over": 270,
     "latitude": 32.761156,
-    "longitude": 129.868111,
-    "bounds": {
-      "north": 32.762131,
-      "south": 32.760209,
-      "east": 129.868761,
-      "west": 129.867611
-    }
+    "longitude": 129.868111
   },
   {
     "id": 200,
     "town_name": "上銭座町",
     "population_age_65_and_over": 147,
     "latitude": 32.763617,
-    "longitude": 129.869481,
-    "bounds": {
-      "north": 32.764902,
-      "south": 32.763117,
-      "east": 129.870836,
-      "west": 129.868359
-    }
+    "longitude": 129.869481
   },
   {
     "id": 201,
     "town_name": "緑町",
     "population_age_65_and_over": 126,
     "latitude": 32.763106,
-    "longitude": 129.867237,
-    "bounds": {
-      "north": 32.763606,
-      "south": 32.762131,
-      "east": 129.868359,
-      "west": 129.866403
-    }
+    "longitude": 129.867237
   },
   {
     "id": 202,
     "town_name": "茂里町",
     "population_age_65_and_over": 108,
     "latitude": 32.765779,
-    "longitude": 129.862516,
-    "bounds": {
-      "north": 32.766279,
-      "south": 32.7646,
-      "east": 129.863033,
-      "west": 129.861223
-    }
+    "longitude": 129.862516
   },
   {
     "id": 203,
     "town_name": "目覚町",
     "population_age_65_and_over": 263,
     "latitude": 32.76342,
-    "longitude": 129.86557,
-    "bounds": {
-      "north": 32.765028,
-      "south": 32.76292,
-      "east": 129.866403,
-      "west": 129.86507
-    }
+    "longitude": 129.86557
   },
   {
     "id": 204,
     "town_name": "岩川町",
     "population_age_65_and_over": 311,
     "latitude": 32.766636,
-    "longitude": 129.865469,
-    "bounds": {
-      "north": 32.767301,
-      "south": 32.766136,
-      "east": 129.865969,
-      "west": 129.864509
-    }
+    "longitude": 129.865469
   },
   {
     "id": 205,
     "town_name": "川口町",
     "population_age_65_and_over": 229,
     "latitude": 32.767966,
-    "longitude": 129.863549,
-    "bounds": {
-      "north": 32.768602,
-      "south": 32.767301,
-      "east": 129.864484,
-      "west": 129.863033
-    }
+    "longitude": 129.863549
   },
   {
     "id": 206,
     "town_name": "浜口町",
     "population_age_65_and_over": 202,
     "latitude": 32.769237,
-    "longitude": 129.865419,
-    "bounds": {
-      "north": 32.770383,
-      "south": 32.768602,
-      "east": 129.865919,
-      "west": 129.864484
-    }
+    "longitude": 129.865419
   },
   {
     "id": 207,
     "town_name": "平野町",
     "population_age_65_and_over": 374,
     "latitude": 32.77153,
-    "longitude": 129.86514,
-    "bounds": {
-      "north": 32.773238,
-      "south": 32.770383,
-      "east": 129.86564,
-      "west": 129.863475
-    }
+    "longitude": 129.86514
   },
   {
     "id": 208,
     "town_name": "平和町",
     "population_age_65_and_over": 397,
     "latitude": 32.774946,
-    "longitude": 129.865625,
-    "bounds": {
-      "north": 32.776176,
-      "south": 32.774446,
-      "east": 129.866635,
-      "west": 129.863718
-    }
+    "longitude": 129.865625
   },
   {
     "id": 209,
     "town_name": "坂本１丁目",
     "population_age_65_and_over": 218,
     "latitude": 32.770214,
-    "longitude": 129.868548,
-    "bounds": {
-      "north": 32.770872,
-      "south": 32.769714,
-      "east": 129.870103,
-      "west": 129.866984
-    }
+    "longitude": 129.868548
   },
   {
     "id": 210,
     "town_name": "坂本２丁目",
     "population_age_65_and_over": 281,
     "latitude": 32.766186,
-    "longitude": 129.872192,
-    "bounds": {
-      "north": 32.767955,
-      "south": 32.764902,
-      "east": 129.873715,
-      "west": 129.870836
-    }
+    "longitude": 129.872192
   },
   {
     "id": 211,
     "town_name": "坂本３丁目",
     "population_age_65_and_over": 149,
     "latitude": 32.769723,
-    "longitude": 129.871657,
-    "bounds": {
-      "north": 32.770223,
-      "south": 32.767955,
-      "east": 129.873447,
-      "west": 129.870103
-    }
+    "longitude": 129.871657
   },
   {
     "id": 212,
     "town_name": "松山町",
     "population_age_65_and_over": 73,
     "latitude": 32.774064,
-    "longitude": 129.86181,
-    "bounds": {
-      "north": 32.774564,
-      "south": 32.773333,
-      "east": 129.863718,
-      "west": 129.859886
-    }
+    "longitude": 129.86181
   },
   {
     "id": 213,
     "town_name": "岡町",
     "population_age_65_and_over": 126,
     "latitude": 32.777407,
-    "longitude": 129.862856,
-    "bounds": {
-      "north": 32.778047,
-      "south": 32.776176,
-      "east": 129.863812,
-      "west": 129.862333
-    }
+    "longitude": 129.862856
   },
   {
     "id": 214,
     "town_name": "橋口町",
     "population_age_65_and_over": 325,
     "latitude": 32.778686,
-    "longitude": 129.864769,
-    "bounds": {
-      "north": 32.779186,
-      "south": 32.778047,
-      "east": 129.866207,
-      "west": 129.863812
-    }
+    "longitude": 129.864769
   },
   {
     "id": 215,
     "town_name": "上野町",
     "population_age_65_and_over": 269,
     "latitude": 32.778771,
-    "longitude": 129.867645,
-    "bounds": {
-      "north": 32.779992,
-      "south": 32.778271,
-      "east": 129.868145,
-      "west": 129.866207
-    }
+    "longitude": 129.867645
   },
   {
     "id": 216,
     "town_name": "本原町",
     "population_age_65_and_over": 458,
     "latitude": 32.781213,
-    "longitude": 129.868044,
-    "bounds": {
-      "north": 32.782713,
-      "south": 32.779992,
-      "east": 129.868544,
-      "west": 129.867544
-    }
+    "longitude": 129.868044
   },
   {
     "id": 217,
     "town_name": "扇町",
     "population_age_65_and_over": 373,
     "latitude": 32.784213,
-    "longitude": 129.868545,
-    "bounds": {
-      "north": 32.785568,
-      "south": 32.782713,
-      "east": 129.870327,
-      "west": 129.86777
-    }
+    "longitude": 129.868545
   },
   {
     "id": 218,
     "town_name": "石神町",
     "population_age_65_and_over": 564,
     "latitude": 32.785858,
-    "longitude": 129.872109,
-    "bounds": {
-      "north": 32.78639,
-      "south": 32.785035,
-      "east": 129.874424,
-      "west": 129.870327
-    }
+    "longitude": 129.872109
   },
   {
     "id": 219,
     "town_name": "辻町",
     "population_age_65_and_over": 426,
     "latitude": 32.785203,
-    "longitude": 129.876739,
-    "bounds": {
-      "north": 32.785703,
-      "south": 32.783423,
-      "east": 129.877463,
-      "west": 129.874424
-    }
+    "longitude": 129.876739
   },
   {
     "id": 220,
     "town_name": "小峰町",
     "population_age_65_and_over": 639,
     "latitude": 32.781747,
-    "longitude": 129.872292,
-    "bounds": {
-      "north": 32.78298,
-      "south": 32.781247,
-      "east": 129.8735,
-      "west": 129.870168
-    }
+    "longitude": 129.872292
   },
   {
     "id": 221,
     "town_name": "三原１丁目",
     "population_age_65_and_over": 827,
     "latitude": 32.781643,
-    "longitude": 129.879277,
-    "bounds": {
-      "north": 32.783423,
-      "south": 32.779978,
-      "east": 129.881517,
-      "west": 129.878008
-    }
+    "longitude": 129.879277
   },
   {
     "id": 222,
     "town_name": "三原２丁目",
     "population_age_65_and_over": 870,
     "latitude": 32.783464,
-    "longitude": 129.883756,
-    "bounds": {
-      "north": 32.784334,
-      "south": 32.782747,
-      "east": 129.885962,
-      "west": 129.881517
-    }
+    "longitude": 129.883756
   },
   {
     "id": 223,
     "town_name": "三原３丁目",
     "population_age_65_and_over": 116,
     "latitude": 32.777212,
-    "longitude": 129.883763,
-    "bounds": {
-      "north": 32.779427,
-      "south": 32.775959,
-      "east": 129.886319,
-      "west": 129.88152
-    }
+    "longitude": 129.883763
   },
   {
     "id": 224,
     "town_name": "高尾町",
     "population_age_65_and_over": 515,
     "latitude": 32.778313,
-    "longitude": 129.874709,
-    "bounds": {
-      "north": 32.78003,
-      "south": 32.776948,
-      "east": 129.876993,
-      "west": 129.8735
-    }
+    "longitude": 129.874709
   },
   {
     "id": 225,
     "town_name": "本尾町",
     "population_age_65_and_over": 476,
     "latitude": 32.775583,
-    "longitude": 129.870973,
-    "bounds": {
-      "north": 32.776948,
-      "south": 32.77438,
-      "east": 129.872191,
-      "west": 129.869309
-    }
+    "longitude": 129.870973
   },
   {
     "id": 226,
     "town_name": "江平１丁目",
     "population_age_65_and_over": 328,
     "latitude": 32.769839,
-    "longitude": 129.875238,
-    "bounds": {
-      "north": 32.771508,
-      "south": 32.769339,
-      "east": 129.877475,
-      "west": 129.873447
-    }
+    "longitude": 129.875238
   },
   {
     "id": 227,
     "town_name": "江平２丁目",
     "population_age_65_and_over": 195,
     "latitude": 32.773178,
-    "longitude": 129.873409,
-    "bounds": {
-      "north": 32.77438,
-      "south": 32.771508,
-      "east": 129.874324,
-      "west": 129.872191
-    }
+    "longitude": 129.873409
   },
   {
     "id": 228,
     "town_name": "江平３丁目",
     "population_age_65_and_over": 191,
     "latitude": 32.771652,
-    "longitude": 129.879712,
-    "bounds": {
-      "north": 32.772415,
-      "south": 32.770746,
-      "east": 129.881737,
-      "west": 129.877475
-    }
+    "longitude": 129.879712
   },
   {
     "id": 229,
     "town_name": "大橋町",
     "population_age_65_and_over": 512,
     "latitude": 32.781701,
-    "longitude": 129.86259,
-    "bounds": {
-      "north": 32.783816,
-      "south": 32.781201,
-      "east": 129.863679,
-      "west": 129.861507
-    }
+    "longitude": 129.86259
   },
   {
     "id": 230,
     "town_name": "城栄町",
     "population_age_65_and_over": 541,
     "latitude": 32.776573,
-    "longitude": 129.856031,
-    "bounds": {
-      "north": 32.778669,
-      "south": 32.775734,
-      "east": 129.856996,
-      "west": 129.854512
-    }
+    "longitude": 129.856031
   },
   {
     "id": 231,
     "town_name": "青山町",
     "population_age_65_and_over": 783,
     "latitude": 32.77648,
-    "longitude": 129.848274,
-    "bounds": {
-      "north": 32.779366,
-      "south": 32.775374,
-      "east": 129.850634,
-      "west": 129.846267
-    }
+    "longitude": 129.848274
   },
   {
     "id": 232,
     "town_name": "若草町",
     "population_age_65_and_over": 325,
     "latitude": 32.774896,
-    "longitude": 129.852994,
-    "bounds": {
-      "north": 32.775734,
-      "south": 32.773569,
-      "east": 129.853704,
-      "west": 129.851849
-    }
+    "longitude": 129.852994
   },
   {
     "id": 233,
     "town_name": "金堀町",
     "population_age_65_and_over": 578,
     "latitude": 32.774267,
-    "longitude": 129.844259,
-    "bounds": {
-      "north": 32.775374,
-      "south": 32.772425,
-      "east": 129.846267,
-      "west": 129.843601
-    }
+    "longitude": 129.844259
   },
   {
     "id": 234,
     "town_name": "城山台１丁目",
     "population_age_65_and_over": 674,
     "latitude": 32.770583,
-    "longitude": 129.842943,
-    "bounds": {
-      "north": 32.772425,
-      "south": 32.767727,
-      "east": 129.843601,
-      "west": 129.839988
-    }
+    "longitude": 129.842943
   },
   {
     "id": 235,
     "town_name": "城山台２丁目",
     "population_age_65_and_over": 457,
     "latitude": 32.772293,
-    "longitude": 129.837032,
-    "bounds": {
-      "north": 32.77328,
-      "south": 32.771438,
-      "east": 129.839988,
-      "west": 129.83475
-    }
+    "longitude": 129.837032
   },
   {
     "id": 236,
     "town_name": "花園町",
     "population_age_65_and_over": 285,
     "latitude": 32.77152,
-    "longitude": 129.850704,
-    "bounds": {
-      "north": 32.77202,
-      "south": 32.769576,
-      "east": 129.852559,
-      "west": 129.849489
-    }
+    "longitude": 129.850704
   },
   {
     "id": 237,
     "town_name": "立岩町",
     "population_age_65_and_over": 459,
     "latitude": 32.76487,
-    "longitude": 129.845998,
-    "bounds": {
-      "north": 32.767727,
-      "south": 32.76392,
-      "east": 129.849395,
-      "west": 129.84447
-    }
+    "longitude": 129.845998
   },
   {
     "id": 238,
     "town_name": "富士見町",
     "population_age_65_and_over": 406,
     "latitude": 32.772242,
-    "longitude": 129.854414,
-    "bounds": {
-      "north": 32.773569,
-      "south": 32.771742,
-      "east": 129.856188,
-      "west": 129.853704
-    }
+    "longitude": 129.854414
   },
   {
     "id": 239,
     "town_name": "城山町",
     "population_age_65_and_over": 485,
     "latitude": 32.772602,
-    "longitude": 129.857962,
-    "bounds": {
-      "north": 32.773333,
-      "south": 32.772102,
-      "east": 129.858979,
-      "west": 129.856188
-    }
+    "longitude": 129.857962
   },
   {
     "id": 240,
     "town_name": "新小が倉１丁目",
     "population_age_65_and_over": 138,
     "latitude": 32.708518,
-    "longitude": 129.859459,
-    "bounds": {
-      "north": 32.71067,
-      "south": 32.708018,
-      "east": 129.860716,
-      "west": 129.858773
-    }
+    "longitude": 129.859459
   },
   {
     "id": 241,
     "town_name": "新小が倉２丁目",
     "population_age_65_and_over": 125,
     "latitude": 32.70816,
-    "longitude": 129.861974,
-    "bounds": {
-      "north": 32.70866,
-      "south": 32.706052,
-      "east": 129.862728,
-      "west": 129.860716
-    }
+    "longitude": 129.861974
   },
   {
     "id": 242,
     "town_name": "小ケ倉町１丁目",
     "population_age_65_and_over": 171,
     "latitude": 32.709472,
-    "longitude": 129.853141,
-    "bounds": {
-      "north": 32.711147,
-      "south": 32.707409,
-      "east": 129.8563,
-      "west": 129.852641
-    }
+    "longitude": 129.853141
   },
   {
     "id": 243,
     "town_name": "小ケ倉町２丁目",
     "population_age_65_and_over": 404,
     "latitude": 32.705347,
-    "longitude": 129.852917,
-    "bounds": {
-      "north": 32.707409,
-      "south": 32.703144,
-      "east": 129.853417,
-      "west": 129.850647
-    }
+    "longitude": 129.852917
   },
   {
     "id": 244,
     "town_name": "小ケ倉町３丁目",
     "population_age_65_and_over": 186,
     "latitude": 32.702596,
-    "longitude": 129.848377,
-    "bounds": {
-      "north": 32.703972,
-      "south": 32.700282,
-      "east": 129.850647,
-      "west": 129.842594
-    }
+    "longitude": 129.848377
   },
   {
     "id": 245,
     "town_name": "大山町",
     "population_age_65_and_over": 62,
     "latitude": 32.697046,
-    "longitude": 129.875056,
-    "bounds": {
-      "north": 32.702152,
-      "south": 32.69451,
-      "east": 129.879115,
-      "west": 129.874188
-    }
+    "longitude": 129.875056
   },
   {
     "id": 246,
     "town_name": "ﾀﾞｲﾔﾗﾝﾄﾞ１丁目",
     "population_age_65_and_over": 449,
     "latitude": 32.703943,
-    "longitude": 129.863482,
-    "bounds": {
-      "north": 32.706052,
-      "south": 32.703443,
-      "east": 129.864719,
-      "west": 129.862728
-    }
+    "longitude": 129.863482
   },
   {
     "id": 247,
     "town_name": "ﾀﾞｲﾔﾗﾝﾄﾞ２丁目",
     "population_age_65_and_over": 588,
     "latitude": 32.703924,
-    "longitude": 129.858088,
-    "bounds": {
-      "north": 32.704424,
-      "south": 32.702433,
-      "east": 129.860785,
-      "west": 129.856122
-    }
+    "longitude": 129.858088
   },
   {
     "id": 248,
     "town_name": "ﾀﾞｲﾔﾗﾝﾄﾞ３丁目",
     "population_age_65_and_over": 605,
     "latitude": 32.700941,
-    "longitude": 129.854156,
-    "bounds": {
-      "north": 32.702433,
-      "south": 32.69995,
-      "east": 129.855382,
-      "west": 129.853536
-    }
+    "longitude": 129.854156
   },
   {
     "id": 249,
     "town_name": "ﾀﾞｲﾔﾗﾝﾄﾞ４丁目",
     "population_age_65_and_over": 351,
     "latitude": 32.698958,
-    "longitude": 129.856608,
-    "bounds": {
-      "north": 32.69995,
-      "south": 32.698013,
-      "east": 129.857326,
-      "west": 129.855382
-    }
+    "longitude": 129.856608
   },
   {
     "id": 250,
     "town_name": "木鉢町１丁目",
     "population_age_65_and_over": 190,
     "latitude": 32.724875,
-    "longitude": 129.842289,
-    "bounds": {
-      "north": 32.726719,
-      "south": 32.720771,
-      "east": 129.845503,
-      "west": 129.838421
-    }
+    "longitude": 129.842289
   },
   {
     "id": 251,
     "town_name": "木鉢町２丁目",
     "population_age_65_and_over": 306,
     "latitude": 32.73362,
-    "longitude": 129.840848,
-    "bounds": {
-      "north": 32.734143,
-      "south": 32.731882,
-      "east": 129.844782,
-      "west": 129.838573
-    }
+    "longitude": 129.840848
   },
   {
     "id": 252,
     "town_name": "みなと坂１丁目",
     "population_age_65_and_over": 136,
     "latitude": 32.730143,
-    "longitude": 129.835688,
-    "bounds": {
-      "north": 32.732404,
-      "south": 32.728492,
-      "east": 129.836188,
-      "west": 129.835121
-    }
+    "longitude": 129.835688
   },
   {
     "id": 253,
     "town_name": "みなと坂２丁目",
     "population_age_65_and_over": 97,
     "latitude": 32.734665,
-    "longitude": 129.836298,
-    "bounds": {
-      "north": 32.736048,
-      "south": 32.734143,
-      "east": 129.838573,
-      "west": 129.835798
-    }
+    "longitude": 129.836298
   },
   {
     "id": 254,
     "town_name": "小瀬戸町",
     "population_age_65_and_over": 403,
     "latitude": 32.72684,
-    "longitude": 129.834553,
-    "bounds": {
-      "north": 32.728492,
-      "south": 32.72634,
-      "east": 129.835121,
-      "west": 129.831512
-    }
+    "longitude": 129.834553
   },
   {
     "id": 255,
     "town_name": "神ノ島町１丁目",
     "population_age_65_and_over": 216,
     "latitude": 32.725877,
-    "longitude": 129.828471,
-    "bounds": {
-      "north": 32.726377,
-      "south": 32.724509,
-      "east": 129.831512,
-      "west": 129.825843
-    }
+    "longitude": 129.828471
   },
   {
     "id": 256,
     "town_name": "神ノ島町２丁目",
     "population_age_65_and_over": 77,
     "latitude": 32.71852,
-    "longitude": 129.827142,
-    "bounds": {
-      "north": 32.72083,
-      "south": 32.717594,
-      "east": 129.827807,
-      "west": 129.825178
-    }
+    "longitude": 129.827142
   },
   {
     "id": 257,
     "town_name": "神ノ島町３丁目",
     "population_age_65_and_over": 36,
     "latitude": 32.723141,
-    "longitude": 129.823215,
-    "bounds": {
-      "north": 32.724509,
-      "south": 32.72083,
-      "east": 129.825843,
-      "west": 129.821154
-    }
+    "longitude": 129.823215
   },
   {
     "id": 258,
     "town_name": "岩屋町",
     "population_age_65_and_over": 813,
     "latitude": 32.797372,
-    "longitude": 129.846388,
-    "bounds": {
-      "north": 32.797872,
-      "south": 32.796872,
-      "east": 129.848542,
-      "west": 129.843946
-    }
+    "longitude": 129.846388
   },
   {
     "id": 259,
     "town_name": "住吉町",
     "population_age_65_and_over": 479,
     "latitude": 32.792992,
-    "longitude": 129.860398,
-    "bounds": {
-      "north": 32.794348,
-      "south": 32.792492,
-      "east": 129.862164,
-      "west": 129.859574
-    }
+    "longitude": 129.860398
   },
   {
     "id": 260,
     "town_name": "住吉台町",
     "population_age_65_and_over": 128,
     "latitude": 32.795703,
-    "longitude": 129.859107,
-    "bounds": {
-      "north": 32.796503,
-      "south": 32.795203,
-      "east": 129.859796,
-      "west": 129.858084
-    }
+    "longitude": 129.859107
   },
   {
     "id": 261,
     "town_name": "中園町",
     "population_age_65_and_over": 290,
     "latitude": 32.792194,
-    "longitude": 129.858749,
-    "bounds": {
-      "north": 32.792694,
-      "south": 32.790765,
-      "east": 129.859574,
-      "west": 129.858249
-    }
+    "longitude": 129.858749
   },
   {
     "id": 262,
     "town_name": "若葉町",
     "population_age_65_and_over": 173,
     "latitude": 32.787786,
-    "longitude": 129.861271,
-    "bounds": {
-      "north": 32.788286,
-      "south": 32.786858,
-      "east": 129.861885,
-      "west": 129.860212
-    }
+    "longitude": 129.861271
   },
   {
     "id": 263,
     "town_name": "家野町",
     "population_age_65_and_over": 348,
     "latitude": 32.788097,
-    "longitude": 129.862499,
-    "bounds": {
-      "north": 32.788942,
-      "south": 32.787597,
-      "east": 129.864747,
-      "west": 129.861885
-    }
+    "longitude": 129.862499
   },
   {
     "id": 264,
     "town_name": "千歳町",
     "population_age_65_and_over": 566,
     "latitude": 32.789787,
-    "longitude": 129.86226,
-    "bounds": {
-      "north": 32.791012,
-      "south": 32.788942,
-      "east": 129.86276,
-      "west": 129.86176
-    }
+    "longitude": 129.86226
   },
   {
     "id": 265,
     "town_name": "花丘町",
     "population_age_65_and_over": 350,
     "latitude": 32.792238,
-    "longitude": 129.86393,
-    "bounds": {
-      "north": 32.793548,
-      "south": 32.791012,
-      "east": 129.86453,
-      "west": 129.863095
-    }
+    "longitude": 129.86393
   },
   {
     "id": 266,
     "town_name": "泉町",
     "population_age_65_and_over": 15,
     "latitude": 32.804406,
-    "longitude": 129.867316,
-    "bounds": {
-      "north": 32.805231,
-      "south": 32.803514,
-      "east": 129.871379,
-      "west": 129.865801
-    }
+    "longitude": 129.867316
   },
   {
     "id": 267,
     "town_name": "泉１丁目",
     "population_age_65_and_over": 222,
     "latitude": 32.794858,
-    "longitude": 129.865129,
-    "bounds": {
-      "north": 32.796225,
-      "south": 32.793548,
-      "east": 129.866323,
-      "west": 129.86453
-    }
+    "longitude": 129.865129
   },
   {
     "id": 268,
     "town_name": "泉２丁目",
     "population_age_65_and_over": 471,
     "latitude": 32.797592,
-    "longitude": 129.864286,
-    "bounds": {
-      "north": 32.798092,
-      "south": 32.796225,
-      "east": 129.864786,
-      "west": 129.862386
-    }
+    "longitude": 129.864286
   },
   {
     "id": 269,
     "town_name": "泉３丁目",
     "population_age_65_and_over": 184,
     "latitude": 32.797302,
-    "longitude": 129.860485,
-    "bounds": {
-      "north": 32.797802,
-      "south": 32.796503,
-      "east": 129.862386,
-      "west": 129.859796
-    }
+    "longitude": 129.860485
   },
   {
     "id": 270,
     "town_name": "文教町",
     "population_age_65_and_over": 261,
     "latitude": 32.786923,
-    "longitude": 129.866995,
-    "bounds": {
-      "north": 32.78751,
-      "south": 32.785568,
-      "east": 129.86777,
-      "west": 129.864747
-    }
+    "longitude": 129.866995
   },
   {
     "id": 271,
     "town_name": "赤迫１丁目",
     "population_age_65_and_over": 412,
     "latitude": 32.79528,
-    "longitude": 129.857061,
-    "bounds": {
-      "north": 32.79578,
-      "south": 32.793923,
-      "east": 129.858084,
-      "west": 129.856561
-    }
+    "longitude": 129.857061
   },
   {
     "id": 272,
     "town_name": "赤迫２丁目",
     "population_age_65_and_over": 339,
     "latitude": 32.797787,
-    "longitude": 129.856877,
-    "bounds": {
-      "north": 32.799374,
-      "south": 32.796533,
-      "east": 129.857377,
-      "west": 129.855875
-    }
+    "longitude": 129.856877
   },
   {
     "id": 273,
     "town_name": "赤迫３丁目",
     "population_age_65_and_over": 258,
     "latitude": 32.800962,
-    "longitude": 129.854873,
-    "bounds": {
-      "north": 32.802821,
-      "south": 32.799374,
-      "east": 129.855875,
-      "west": 129.852784
-    }
+    "longitude": 129.854873
   },
   {
     "id": 274,
     "town_name": "西北町",
     "population_age_65_and_over": 657,
     "latitude": 32.796984,
-    "longitude": 129.850695,
-    "bounds": {
-      "north": 32.797484,
-      "south": 32.795318,
-      "east": 129.853786,
-      "west": 129.848542
-    }
+    "longitude": 129.850695
   },
   {
     "id": 275,
     "town_name": "若竹町",
     "population_age_65_and_over": 537,
     "latitude": 32.793652,
-    "longitude": 129.848257,
-    "bounds": {
-      "north": 32.795318,
-      "south": 32.791627,
-      "east": 129.849476,
-      "west": 129.847322
-    }
+    "longitude": 129.848257
   },
   {
     "id": 276,
     "town_name": "柳谷町",
     "population_age_65_and_over": 414,
     "latitude": 32.792566,
-    "longitude": 129.85505,
-    "bounds": {
-      "north": 32.793923,
-      "south": 32.791233,
-      "east": 129.85555,
-      "west": 129.854409
-    }
+    "longitude": 129.85505
   },
   {
     "id": 277,
     "town_name": "錦１丁目",
     "population_age_65_and_over": 158,
     "latitude": 32.7899,
-    "longitude": 129.856011,
-    "bounds": {
-      "north": 32.791233,
-      "south": 32.7894,
-      "east": 129.857168,
-      "west": 129.854889
-    }
+    "longitude": 129.856011
   },
   {
     "id": 278,
     "town_name": "錦２丁目",
     "population_age_65_and_over": 356,
     "latitude": 32.78941,
-    "longitude": 129.853767,
-    "bounds": {
-      "north": 32.78991,
-      "south": 32.787755,
-      "east": 129.854889,
-      "west": 129.851652
-    }
+    "longitude": 129.853767
   },
   {
     "id": 279,
     "town_name": "錦３丁目",
     "population_age_65_and_over": 215,
     "latitude": 32.789602,
-    "longitude": 129.846406,
-    "bounds": {
-      "north": 32.791627,
-      "south": 32.7877,
-      "east": 129.847331,
-      "west": 129.845906
-    }
+    "longitude": 129.846406
   },
   {
     "id": 280,
     "town_name": "音無町",
     "population_age_65_and_over": 360,
     "latitude": 32.789335,
-    "longitude": 129.858324,
-    "bounds": {
-      "north": 32.789835,
-      "south": 32.788561,
-      "east": 129.858824,
-      "west": 129.857168
-    }
+    "longitude": 129.858324
   },
   {
     "id": 281,
     "town_name": "西町",
     "population_age_65_and_over": 466,
     "latitude": 32.785799,
-    "longitude": 129.849536,
-    "bounds": {
-      "north": 32.7877,
-      "south": 32.784025,
-      "east": 129.852543,
-      "west": 129.848681
-    }
+    "longitude": 129.849536
   },
   {
     "id": 282,
     "town_name": "白鳥町",
     "population_age_65_and_over": 175,
     "latitude": 32.7861,
-    "longitude": 129.855551,
-    "bounds": {
-      "north": 32.787755,
-      "south": 32.7856,
-      "east": 129.857352,
-      "west": 129.854659
-    }
+    "longitude": 129.855551
   },
   {
     "id": 283,
     "town_name": "清水町",
     "population_age_65_and_over": 498,
     "latitude": 32.78593,
-    "longitude": 129.859154,
-    "bounds": {
-      "north": 32.786858,
-      "south": 32.784307,
-      "east": 129.860212,
-      "west": 129.857352
-    }
+    "longitude": 129.859154
   },
   {
     "id": 284,
     "town_name": "緑が丘町",
     "population_age_65_and_over": 206,
     "latitude": 32.782684,
-    "longitude": 129.855632,
-    "bounds": {
-      "north": 32.784392,
-      "south": 32.781725,
-      "east": 129.857007,
-      "west": 129.855132
-    }
+    "longitude": 129.855632
   },
   {
     "id": 285,
     "town_name": "江里町",
     "population_age_65_and_over": 450,
     "latitude": 32.780766,
-    "longitude": 129.858381,
-    "bounds": {
-      "north": 32.781266,
-      "south": 32.778669,
-      "east": 129.859402,
-      "west": 129.857007
-    }
+    "longitude": 129.858381
   },
   {
     "id": 286,
     "town_name": "三芳町",
     "population_age_65_and_over": 280,
     "latitude": 32.781124,
-    "longitude": 129.860424,
-    "bounds": {
-      "north": 32.781624,
-      "south": 32.780624,
-      "east": 129.861507,
-      "west": 129.859402
-    }
+    "longitude": 129.860424
   },
   {
     "id": 287,
     "town_name": "油木町",
     "population_age_65_and_over": 916,
     "latitude": 32.782252,
-    "longitude": 129.847827,
-    "bounds": {
-      "north": 32.784025,
-      "south": 32.779366,
-      "east": 129.848681,
-      "west": 129.847116
-    }
+    "longitude": 129.847827
   },
   {
     "id": 288,
     "town_name": "昭和１丁目",
     "population_age_65_and_over": 163,
     "latitude": 32.791113,
-    "longitude": 129.867518,
-    "bounds": {
-      "north": 32.791675,
-      "south": 32.789018,
-      "east": 129.86916,
-      "west": 129.865724
-    }
+    "longitude": 129.867518
   },
   {
     "id": 289,
     "town_name": "昭和２丁目",
     "population_age_65_and_over": 242,
     "latitude": 32.793244,
-    "longitude": 129.870802,
-    "bounds": {
-      "north": 32.794051,
-      "south": 32.792179,
-      "east": 129.872365,
-      "west": 129.86916
-    }
+    "longitude": 129.870802
   },
   {
     "id": 290,
     "town_name": "昭和３丁目",
     "population_age_65_and_over": 295,
     "latitude": 32.798279,
-    "longitude": 129.872653,
-    "bounds": {
-      "north": 32.80045,
-      "south": 32.797779,
-      "east": 129.874591,
-      "west": 129.871728
-    }
+    "longitude": 129.872653
   },
   {
     "id": 291,
     "town_name": "女の都１丁目",
     "population_age_65_and_over": 242,
     "latitude": 32.797754,
-    "longitude": 129.876529,
-    "bounds": {
-      "north": 32.798254,
-      "south": 32.797227,
-      "east": 129.878101,
-      "west": 129.874591
-    }
+    "longitude": 129.876529
   },
   {
     "id": 292,
     "town_name": "女の都２丁目",
     "population_age_65_and_over": 461,
     "latitude": 32.802431,
-    "longitude": 129.880166,
-    "bounds": {
-      "north": 32.804243,
-      "south": 32.800092,
-      "east": 129.885192,
-      "west": 129.879666
-    }
+    "longitude": 129.880166
   },
   {
     "id": 293,
     "town_name": "女の都３丁目",
     "population_age_65_and_over": 381,
     "latitude": 32.806055,
-    "longitude": 129.879807,
-    "bounds": {
-      "north": 32.807448,
-      "south": 32.804243,
-      "east": 129.880307,
-      "west": 129.877624
-    }
+    "longitude": 129.879807
   },
   {
     "id": 294,
     "town_name": "女の都４丁目",
     "population_age_65_and_over": 534,
     "latitude": 32.802622,
-    "longitude": 129.875442,
-    "bounds": {
-      "north": 32.804339,
-      "south": 32.802122,
-      "east": 129.877804,
-      "west": 129.874048
-    }
+    "longitude": 129.875442
   },
   {
     "id": 295,
     "town_name": "大手１丁目",
     "population_age_65_and_over": 375,
     "latitude": 32.790539,
-    "longitude": 129.873928,
-    "bounds": {
-      "north": 32.791281,
-      "south": 32.789816,
-      "east": 129.875677,
-      "west": 129.872365
-    }
+    "longitude": 129.873928
   },
   {
     "id": 296,
     "town_name": "大手２丁目",
     "population_age_65_and_over": 540,
     "latitude": 32.789093,
-    "longitude": 129.878188,
-    "bounds": {
-      "north": 32.790558,
-      "south": 32.787148,
-      "east": 129.880972,
-      "west": 129.877688
-    }
+    "longitude": 129.878188
   },
   {
     "id": 297,
     "town_name": "大手３丁目",
     "population_age_65_and_over": 192,
     "latitude": 32.792023,
-    "longitude": 129.877427,
-    "bounds": {
-      "north": 32.794362,
-      "south": 32.790558,
-      "east": 129.877927,
-      "west": 129.875677
-    }
+    "longitude": 129.877427
   },
   {
     "id": 298,
     "town_name": "三川町",
     "population_age_65_and_over": 700,
     "latitude": 32.787923,
-    "longitude": 129.895434,
-    "bounds": {
-      "north": 32.794657,
-      "south": 32.784837,
-      "east": 129.899614,
-      "west": 129.894306
-    }
+    "longitude": 129.895434
   },
   {
     "id": 299,
     "town_name": "川平町",
     "population_age_65_and_over": 810,
     "latitude": 32.801392,
-    "longitude": 129.890218,
-    "bounds": {
-      "north": 32.801912,
-      "south": 32.799047,
-      "east": 129.892826,
-      "west": 129.885192
-    }
+    "longitude": 129.890218
   },
   {
     "id": 300,
     "town_name": "けやき台町",
     "population_age_65_and_over": 55,
     "latitude": 32.796701,
-    "longitude": 129.879673,
-    "bounds": {
-      "north": 32.797227,
-      "south": 32.794362,
-      "east": 129.880173,
-      "west": 129.878101
-    }
+    "longitude": 129.879673
   },
   {
     "id": 301,
     "town_name": "三ツ山町",
     "population_age_65_and_over": 583,
     "latitude": 32.802842,
-    "longitude": 129.907329,
-    "bounds": {
-      "north": 32.807728,
-      "south": 32.802117,
-      "east": 129.914089,
-      "west": 129.898774
-    }
+    "longitude": 129.907329
   },
   {
     "id": 302,
     "town_name": "畦別当町",
     "population_age_65_and_over": 26,
     "latitude": 32.812614,
-    "longitude": 129.920849,
-    "bounds": {
-      "north": 32.813836,
-      "south": 32.807728,
-      "east": 129.921613,
-      "west": 129.914089
-    }
+    "longitude": 129.920849
   },
   {
     "id": 303,
     "town_name": "滑石１丁目",
     "population_age_65_and_over": 653,
     "latitude": 32.808842,
-    "longitude": 129.847024,
-    "bounds": {
-      "north": 32.810401,
-      "south": 32.808342,
-      "east": 129.848039,
-      "west": 129.845313
-    }
+    "longitude": 129.847024
   },
   {
     "id": 304,
     "town_name": "滑石２丁目",
     "population_age_65_and_over": 639,
     "latitude": 32.808176,
-    "longitude": 129.843602,
-    "bounds": {
-      "north": 32.808676,
-      "south": 32.805954,
-      "east": 129.845313,
-      "west": 129.841433
-    }
+    "longitude": 129.843602
   },
   {
     "id": 305,
     "town_name": "滑石３丁目",
     "population_age_65_and_over": 873,
     "latitude": 32.80983,
-    "longitude": 129.834581,
-    "bounds": {
-      "north": 32.811283,
-      "south": 32.807423,
-      "east": 129.836347,
-      "west": 129.834081
-    }
+    "longitude": 129.834581
   },
   {
     "id": 306,
     "town_name": "滑石４丁目",
     "population_age_65_and_over": 838,
     "latitude": 32.804353,
-    "longitude": 129.82202,
-    "bounds": {
-      "north": 32.807733,
-      "south": 32.80233,
-      "east": 129.824992,
-      "west": 129.816724
-    }
+    "longitude": 129.82202
   },
   {
     "id": 307,
     "town_name": "滑石５丁目",
     "population_age_65_and_over": 582,
     "latitude": 32.805016,
-    "longitude": 129.833428,
-    "bounds": {
-      "north": 32.807423,
-      "south": 32.80444,
-      "east": 129.834557,
-      "west": 129.830696
-    }
+    "longitude": 129.833428
   },
   {
     "id": 308,
     "town_name": "滑石６丁目",
     "population_age_65_and_over": 670,
     "latitude": 32.803865,
-    "longitude": 129.835686,
-    "bounds": {
-      "north": 32.80444,
-      "south": 32.800888,
-      "east": 129.837476,
-      "west": 129.834557
-    }
+    "longitude": 129.835686
   },
   {
     "id": 309,
     "town_name": "大園町",
     "population_age_65_and_over": 977,
     "latitude": 32.804165,
-    "longitude": 129.839265,
-    "bounds": {
-      "north": 32.804665,
-      "south": 32.803665,
-      "east": 129.841469,
-      "west": 129.837476
-    }
+    "longitude": 129.839265
   },
   {
     "id": 310,
     "town_name": "大宮町",
     "population_age_65_and_over": 304,
     "latitude": 32.797912,
-    "longitude": 129.834088,
-    "bounds": {
-      "north": 32.79911,
-      "south": 32.797412,
-      "east": 129.834887,
-      "west": 129.831026
-    }
+    "longitude": 129.834088
   },
   {
     "id": 311,
     "town_name": "北栄町",
     "population_age_65_and_over": 393,
     "latitude": 32.800307,
-    "longitude": 129.827964,
-    "bounds": {
-      "north": 32.80233,
-      "south": 32.79911,
-      "east": 129.831026,
-      "west": 129.824992
-    }
+    "longitude": 129.827964
   },
   {
     "id": 312,
     "town_name": "北陽町",
     "population_age_65_and_over": 441,
     "latitude": 32.811114,
-    "longitude": 129.822512,
-    "bounds": {
-      "north": 32.813051,
-      "south": 32.807733,
-      "east": 129.824684,
-      "west": 129.822012
-    }
+    "longitude": 129.822512
   },
   {
     "id": 313,
     "town_name": "虹が丘町",
     "population_age_65_and_over": 596,
     "latitude": 32.797863,
-    "longitude": 129.841504,
-    "bounds": {
-      "north": 32.79974,
-      "south": 32.797363,
-      "east": 129.843946,
-      "west": 129.837796
-    }
+    "longitude": 129.841504
   },
   {
     "id": 314,
     "town_name": "横尾１丁目",
     "population_age_65_and_over": 227,
     "latitude": 32.81196,
-    "longitude": 129.838113,
-    "bounds": {
-      "north": 32.813509,
-      "south": 32.810895,
-      "east": 129.840857,
-      "west": 129.837395
-    }
+    "longitude": 129.838113
   },
   {
     "id": 315,
     "town_name": "横尾２丁目",
     "population_age_65_and_over": 513,
     "latitude": 32.812735,
-    "longitude": 129.833668,
-    "bounds": {
-      "north": 32.813896,
-      "south": 32.811283,
-      "east": 129.834168,
-      "west": 129.832177
-    }
+    "longitude": 129.833668
   },
   {
     "id": 316,
     "town_name": "横尾３丁目",
     "population_age_65_and_over": 592,
     "latitude": 32.815058,
-    "longitude": 129.836677,
-    "bounds": {
-      "north": 32.81572,
-      "south": 32.813509,
-      "east": 129.837395,
-      "west": 129.835172
-    }
+    "longitude": 129.836677
   },
   {
     "id": 317,
     "town_name": "横尾４丁目",
     "population_age_65_and_over": 291,
     "latitude": 32.816382,
-    "longitude": 129.830685,
-    "bounds": {
-      "north": 32.819075,
-      "south": 32.815685,
-      "east": 129.832177,
-      "west": 129.82877
-    }
+    "longitude": 129.830685
   },
   {
     "id": 318,
     "town_name": "横尾５丁目",
     "population_age_65_and_over": 443,
     "latitude": 32.814988,
-    "longitude": 129.826856,
-    "bounds": {
-      "north": 32.815685,
-      "south": 32.813051,
-      "east": 129.82877,
-      "west": 129.824684
-    }
+    "longitude": 129.826856
   },
   {
     "id": 319,
     "town_name": "葉山１丁目",
     "population_age_65_and_over": 672,
     "latitude": 32.80468,
-    "longitude": 129.849055,
-    "bounds": {
-      "north": 32.806761,
-      "south": 32.80418,
-      "east": 129.851964,
-      "west": 129.848039
-    }
+    "longitude": 129.849055
   },
   {
     "id": 320,
     "town_name": "葉山２丁目",
     "population_age_65_and_over": 525,
     "latitude": 32.803732,
-    "longitude": 129.843672,
-    "bounds": {
-      "north": 32.804232,
-      "south": 32.802675,
-      "east": 129.844172,
-      "west": 129.841469
-    }
+    "longitude": 129.843672
   },
   {
     "id": 321,
     "town_name": "エミネント葉山町",
     "population_age_65_and_over": 420,
     "latitude": 32.801618,
-    "longitude": 129.844174,
-    "bounds": {
-      "north": 32.802675,
-      "south": 32.79974,
-      "east": 129.845281,
-      "west": 129.843674
-    }
+    "longitude": 129.844174
   },
   {
     "id": 322,
     "town_name": "大浜町",
     "population_age_65_and_over": 1445,
     "latitude": 32.750937,
-    "longitude": 129.839113,
-    "bounds": {
-      "north": 32.753776,
-      "south": 32.748026,
-      "east": 129.84237,
-      "west": 129.834304
-    }
+    "longitude": 129.839113
   },
   {
     "id": 323,
     "town_name": "小浦町",
     "population_age_65_and_over": 627,
     "latitude": 32.756614,
-    "longitude": 129.829495,
-    "bounds": {
-      "north": 32.760936,
-      "south": 32.754885,
-      "east": 129.834304,
-      "west": 129.824294
-    }
+    "longitude": 129.829495
   },
   {
     "id": 324,
     "town_name": "福田本町",
     "population_age_65_and_over": 623,
     "latitude": 32.753156,
-    "longitude": 129.819092,
-    "bounds": {
-      "north": 32.754885,
-      "south": 32.752046,
-      "east": 129.824294,
-      "west": 129.817763
-    }
+    "longitude": 129.819092
   },
   {
     "id": 325,
     "town_name": "小江町",
     "population_age_65_and_over": 204,
     "latitude": 32.765257,
-    "longitude": 129.816433,
-    "bounds": {
-      "north": 32.769196,
-      "south": 32.759206,
-      "east": 129.817763,
-      "west": 129.811734
-    }
+    "longitude": 129.816433
   },
   {
     "id": 326,
     "town_name": "柿泊町",
     "population_age_65_and_over": 247,
     "latitude": 32.773136,
-    "longitude": 129.807034,
-    "bounds": {
-      "north": 32.777655,
-      "south": 32.769196,
-      "east": 129.811734,
-      "west": 129.804656
-    }
+    "longitude": 129.807034
   },
   {
     "id": 327,
     "town_name": "手熊町",
     "population_age_65_and_over": 149,
     "latitude": 32.782174,
-    "longitude": 129.802278,
-    "bounds": {
-      "north": 32.784317,
-      "south": 32.777655,
-      "east": 129.804656,
-      "west": 129.799757
-    }
+    "longitude": 129.802278
   },
   {
     "id": 328,
     "town_name": "上浦町",
     "population_age_65_and_over": 47,
     "latitude": 32.788166,
-    "longitude": 129.817856,
-    "bounds": {
-      "north": 32.792647,
-      "south": 32.786345,
-      "east": 129.822614,
-      "west": 129.814641
-    }
+    "longitude": 129.817856
   },
   {
     "id": 329,
     "town_name": "茂木町",
     "population_age_65_and_over": 1301,
     "latitude": 32.704498,
-    "longitude": 129.900824,
-    "bounds": {
-      "north": 32.706022,
-      "south": 32.694511,
-      "east": 129.907332,
-      "west": 129.891999
-    }
+    "longitude": 129.900824
   },
   {
     "id": 330,
     "town_name": "田上１丁目",
     "population_age_65_and_over": 284,
     "latitude": 32.72353,
-    "longitude": 129.895604,
-    "bounds": {
-      "north": 32.725002,
-      "south": 32.722715,
-      "east": 129.896125,
-      "west": 129.893513
-    }
+    "longitude": 129.895604
   },
   {
     "id": 331,
     "town_name": "田上２丁目",
     "population_age_65_and_over": 185,
     "latitude": 32.725632,
-    "longitude": 129.886515,
-    "bounds": {
-      "north": 32.726698,
-      "south": 32.723842,
-      "east": 129.887333,
-      "west": 129.886015
-    }
+    "longitude": 129.886515
   },
   {
     "id": 332,
     "town_name": "田上３丁目",
     "population_age_65_and_over": 384,
     "latitude": 32.721901,
-    "longitude": 129.891423,
-    "bounds": {
-      "north": 32.722715,
-      "south": 32.720376,
-      "east": 129.893513,
-      "west": 129.888964
-    }
+    "longitude": 129.891423
   },
   {
     "id": 333,
     "town_name": "田上４丁目",
     "population_age_65_and_over": 252,
     "latitude": 32.722052,
-    "longitude": 129.886506,
-    "bounds": {
-      "north": 32.723842,
-      "south": 32.720451,
-      "east": 129.887006,
-      "west": 129.885898
-    }
+    "longitude": 129.886506
   },
   {
     "id": 334,
     "town_name": "早坂町",
     "population_age_65_and_over": 111,
     "latitude": 32.727375,
-    "longitude": 129.906397,
-    "bounds": {
-      "north": 32.729108,
-      "south": 32.726875,
-      "east": 129.910119,
-      "west": 129.901522
-    }
+    "longitude": 129.906397
   },
   {
     "id": 335,
     "town_name": "北浦町",
     "population_age_65_and_over": 332,
     "latitude": 32.718165,
-    "longitude": 129.91384,
-    "bounds": {
-      "north": 32.72277,
-      "south": 32.711332,
-      "east": 129.921524,
-      "west": 129.910119
-    }
+    "longitude": 129.91384
   },
   {
     "id": 336,
     "town_name": "飯香浦町",
     "population_age_65_and_over": 235,
     "latitude": 32.725328,
-    "longitude": 129.929208,
-    "bounds": {
-      "north": 32.73026,
-      "south": 32.721746,
-      "east": 129.932939,
-      "west": 129.921524
-    }
+    "longitude": 129.929208
   },
   {
     "id": 337,
     "town_name": "太田尾町",
     "population_age_65_and_over": 145,
     "latitude": 32.735193,
-    "longitude": 129.936671,
-    "bounds": {
-      "north": 32.737876,
-      "south": 32.73026,
-      "east": 129.93969,
-      "west": 129.932939
-    }
+    "longitude": 129.936671
   },
   {
     "id": 338,
     "town_name": "田手原町",
     "population_age_65_and_over": 355,
     "latitude": 32.74073,
-    "longitude": 129.911085,
-    "bounds": {
-      "north": 32.74123,
-      "south": 32.738253,
-      "east": 129.913157,
-      "west": 129.904881
-    }
+    "longitude": 129.911085
   },
   {
     "id": 339,
     "town_name": "宮摺町",
     "population_age_65_and_over": 75,
     "latitude": 32.684524,
-    "longitude": 129.892959,
-    "bounds": {
-      "north": 32.690785,
-      "south": 32.678579,
-      "east": 129.896891,
-      "west": 129.891509
-    }
+    "longitude": 129.892959
   },
   {
     "id": 340,
     "town_name": "大崎町",
     "population_age_65_and_over": 118,
     "latitude": 32.672634,
-    "longitude": 129.890059,
-    "bounds": {
-      "north": 32.678579,
-      "south": 32.667304,
-      "east": 129.891509,
-      "west": 129.880775
-    }
+    "longitude": 129.890059
   },
   {
     "id": 341,
     "town_name": "千々町",
     "population_age_65_and_over": 124,
     "latitude": 32.661974,
-    "longitude": 129.87149,
-    "bounds": {
-      "north": 32.667304,
-      "south": 32.655861,
-      "east": 129.880775,
-      "west": 129.863889
-    }
+    "longitude": 129.87149
   },
   {
     "id": 342,
     "town_name": "式見町",
     "population_age_65_and_over": 305,
     "latitude": 32.787626,
-    "longitude": 129.790831,
-    "bounds": {
-      "north": 32.792315,
-      "south": 32.787042,
-      "east": 129.794034,
-      "west": 129.790331
-    }
+    "longitude": 129.790831
   },
   {
     "id": 343,
     "town_name": "向町",
     "population_age_65_and_over": 361,
     "latitude": 32.786459,
-    "longitude": 129.797236,
-    "bounds": {
-      "north": 32.787042,
-      "south": 32.784317,
-      "east": 129.799757,
-      "west": 129.794034
-    }
+    "longitude": 129.797236
   },
   {
     "id": 344,
     "town_name": "相川町",
     "population_age_65_and_over": 145,
     "latitude": 32.800468,
-    "longitude": 129.788654,
-    "bounds": {
-      "north": 32.802152,
-      "south": 32.798736,
-      "east": 129.789574,
-      "west": 129.783693
-    }
+    "longitude": 129.788654
   },
   {
     "id": 345,
     "town_name": "見崎町",
     "population_age_65_and_over": 42,
     "latitude": 32.803835,
-    "longitude": 129.778733,
-    "bounds": {
-      "north": 32.808892,
-      "south": 32.802152,
-      "east": 129.783693,
-      "west": 129.776684
-    }
+    "longitude": 129.778733
   },
   {
     "id": 346,
     "town_name": "牧野町",
     "population_age_65_and_over": 36,
     "latitude": 32.797856,
-    "longitude": 129.799222,
-    "bounds": {
-      "north": 32.799162,
-      "south": 32.797356,
-      "east": 129.805324,
-      "west": 129.794858
-    }
+    "longitude": 129.799222
   },
   {
     "id": 347,
     "town_name": "園田町",
     "population_age_65_and_over": 73,
     "latitude": 32.797127,
-    "longitude": 129.811427,
-    "bounds": {
-      "north": 32.797627,
-      "south": 32.792647,
-      "east": 129.814641,
-      "west": 129.805324
-    }
+    "longitude": 129.811427
   },
   {
     "id": 348,
     "town_name": "四杖町",
     "population_age_65_and_over": 321,
     "latitude": 32.797004,
-    "longitude": 129.790494,
-    "bounds": {
-      "north": 32.798736,
-      "south": 32.792315,
-      "east": 129.794858,
-      "west": 129.789574
-    }
+    "longitude": 129.790494
   },
   {
     "id": 349,
     "town_name": "芒塚町",
     "population_age_65_and_over": 284,
     "latitude": 32.752985,
-    "longitude": 129.927741,
-    "bounds": {
-      "north": 32.754132,
-      "south": 32.752485,
-      "east": 129.930694,
-      "west": 129.921485
-    }
+    "longitude": 129.927741
   },
   {
     "id": 350,
     "town_name": "宿町",
     "population_age_65_and_over": 1051,
     "latitude": 32.763263,
-    "longitude": 129.934806,
-    "bounds": {
-      "north": 32.767194,
-      "south": 32.759271,
-      "east": 129.937787,
-      "west": 129.933359
-    }
+    "longitude": 129.934806
   },
   {
     "id": 351,
     "town_name": "界１丁目",
     "population_age_65_and_over": 200,
     "latitude": 32.752766,
-    "longitude": 129.933647,
-    "bounds": {
-      "north": 32.753266,
-      "south": 32.751905,
-      "east": 129.937207,
-      "west": 129.930694
-    }
+    "longitude": 129.933647
   },
   {
     "id": 352,
     "town_name": "界２丁目",
     "population_age_65_and_over": 330,
     "latitude": 32.755279,
-    "longitude": 129.940767,
-    "bounds": {
-      "north": 32.759271,
-      "south": 32.753161,
-      "east": 129.94202,
-      "west": 129.937207
-    }
+    "longitude": 129.940767
   },
   {
     "id": 353,
     "town_name": "網場町",
     "population_age_65_and_over": 456,
     "latitude": 32.751043,
-    "longitude": 129.943273,
-    "bounds": {
-      "north": 32.753161,
-      "south": 32.74727,
-      "east": 129.947309,
-      "west": 129.94202
-    }
+    "longitude": 129.943273
   },
   {
     "id": 354,
     "town_name": "春日町",
     "population_age_65_and_over": 64,
     "latitude": 32.743497,
-    "longitude": 129.951345,
-    "bounds": {
-      "north": 32.74727,
-      "south": 32.742029,
-      "east": 129.962137,
-      "west": 129.947027
-    }
+    "longitude": 129.951345
   },
   {
     "id": 355,
     "town_name": "潮見町",
     "population_age_65_and_over": 46,
     "latitude": 32.74056,
-    "longitude": 129.942709,
-    "bounds": {
-      "north": 32.742029,
-      "south": 32.737876,
-      "east": 129.947027,
-      "west": 129.93969
-    }
+    "longitude": 129.942709
   },
   {
     "id": 356,
     "town_name": "矢上町",
     "population_age_65_and_over": 442,
     "latitude": 32.776193,
-    "longitude": 129.951355,
-    "bounds": {
-      "north": 32.776693,
-      "south": 32.773507,
-      "east": 129.952572,
-      "west": 129.949544
-    }
+    "longitude": 129.951355
   },
   {
     "id": 357,
     "town_name": "平間町",
     "population_age_65_and_over": 395,
     "latitude": 32.797028,
-    "longitude": 129.940425,
-    "bounds": {
-      "north": 32.801446,
-      "south": 32.795326,
-      "east": 129.944842,
-      "west": 129.931401
-    }
+    "longitude": 129.940425
   },
   {
     "id": 358,
     "town_name": "高城台１丁目",
     "population_age_65_and_over": 115,
     "latitude": 32.776834,
-    "longitude": 129.947733,
-    "bounds": {
-      "north": 32.777808,
-      "south": 32.776334,
-      "east": 129.949544,
-      "west": 129.945528
-    }
+    "longitude": 129.947733
   },
   {
     "id": 359,
     "town_name": "高城台２丁目",
     "population_age_65_and_over": 73,
     "latitude": 32.778782,
-    "longitude": 129.943324,
-    "bounds": {
-      "north": 32.78084,
-      "south": 32.777808,
-      "east": 129.945528,
-      "west": 129.937618
-    }
+    "longitude": 129.943324
   },
   {
     "id": 360,
     "town_name": "鶴の尾町",
     "population_age_65_and_over": 387,
     "latitude": 32.793624,
-    "longitude": 129.94926,
-    "bounds": {
-      "north": 32.795326,
-      "south": 32.788262,
-      "east": 129.953248,
-      "west": 129.944842
-    }
+    "longitude": 129.94926
   },
   {
     "id": 361,
     "town_name": "現川町",
     "population_age_65_and_over": 256,
     "latitude": 32.792212,
-    "longitude": 129.922377,
-    "bounds": {
-      "north": 32.79462,
-      "south": 32.785497,
-      "east": 129.931401,
-      "west": 129.914853
-    }
+    "longitude": 129.922377
   },
   {
     "id": 362,
     "town_name": "田中町",
     "population_age_65_and_over": 1660,
     "latitude": 32.771125,
-    "longitude": 129.931912,
-    "bounds": {
-      "north": 32.774953,
-      "south": 32.767194,
-      "east": 129.933359,
-      "west": 129.922889
-    }
+    "longitude": 129.931912
   },
   {
     "id": 363,
     "town_name": "東町",
     "population_age_65_and_over": 667,
     "latitude": 32.782899,
-    "longitude": 129.959455,
-    "bounds": {
-      "north": 32.788262,
-      "south": 32.779546,
-      "east": 129.961861,
-      "west": 129.955405
-    }
+    "longitude": 129.959455
   },
   {
     "id": 364,
     "town_name": "かき道１丁目",
     "population_age_65_and_over": 265,
     "latitude": 32.770821,
-    "longitude": 129.953788,
-    "bounds": {
-      "north": 32.77193,
-      "south": 32.769387,
-      "east": 129.956077,
-      "west": 129.952572
-    }
+    "longitude": 129.953788
   },
   {
     "id": 365,
     "town_name": "かき道２丁目",
     "population_age_65_and_over": 626,
     "latitude": 32.77304,
-    "longitude": 129.958367,
-    "bounds": {
-      "north": 32.774617,
-      "south": 32.77193,
-      "east": 129.961317,
-      "west": 129.956077
-    }
+    "longitude": 129.958367
   },
   {
     "id": 366,
     "town_name": "かき道３丁目",
     "population_age_65_and_over": 454,
     "latitude": 32.772107,
-    "longitude": 129.964266,
-    "bounds": {
-      "north": 32.772607,
-      "south": 32.769931,
-      "east": 129.96867,
-      "west": 129.963766
-    }
+    "longitude": 129.964266
   },
   {
     "id": 367,
     "town_name": "かき道４丁目",
     "population_age_65_and_over": 753,
     "latitude": 32.767754,
-    "longitude": 129.963702,
-    "bounds": {
-      "north": 32.768254,
-      "south": 32.766539,
-      "east": 129.964202,
-      "west": 129.961753
-    }
+    "longitude": 129.963702
   },
   {
     "id": 368,
     "town_name": "かき道５丁目",
     "population_age_65_and_over": 274,
     "latitude": 32.767953,
-    "longitude": 129.959804,
-    "bounds": {
-      "north": 32.770497,
-      "south": 32.766639,
-      "east": 129.960312,
-      "west": 129.959086
-    }
+    "longitude": 129.959804
   },
   {
     "id": 369,
     "town_name": "かき道６丁目",
     "population_age_65_and_over": 58,
     "latitude": 32.765325,
-    "longitude": 129.96082,
-    "bounds": {
-      "north": 32.766639,
-      "south": 32.759928,
-      "east": 129.962261,
-      "west": 129.960312
-    }
+    "longitude": 129.96082
   },
   {
     "id": 370,
     "town_name": "松原町",
     "population_age_65_and_over": 236,
     "latitude": 32.805865,
-    "longitude": 129.946953,
-    "bounds": {
-      "north": 32.806904,
-      "south": 32.805365,
-      "east": 129.952094,
-      "west": 129.943689
-    }
+    "longitude": 129.946953
   },
   {
     "id": 371,
     "town_name": "古賀町",
     "population_age_65_and_over": 438,
     "latitude": 32.80494,
-    "longitude": 129.957236,
-    "bounds": {
-      "north": 32.806442,
-      "south": 32.80444,
-      "east": 129.95848,
-      "west": 129.952094
-    }
+    "longitude": 129.957236
   },
   {
     "id": 372,
     "town_name": "つつじが丘１丁目",
     "population_age_65_and_over": 232,
     "latitude": 32.803594,
-    "longitude": 129.961312,
-    "bounds": {
-      "north": 32.804094,
-      "south": 32.798609,
-      "east": 129.961812,
-      "west": 129.960518
-    }
+    "longitude": 129.961312
   },
   {
     "id": 373,
     "town_name": "つつじが丘２丁目",
     "population_age_65_and_over": 195,
     "latitude": 32.804277,
-    "longitude": 129.959724,
-    "bounds": {
-      "north": 32.804777,
-      "south": 32.803777,
-      "east": 129.960518,
-      "west": 129.95848
-    }
+    "longitude": 129.959724
   },
   {
     "id": 374,
     "town_name": "つつじが丘３丁目",
     "population_age_65_and_over": 156,
     "latitude": 32.807943,
-    "longitude": 129.95955,
-    "bounds": {
-      "north": 32.808909,
-      "south": 32.807443,
-      "east": 129.960827,
-      "west": 129.958393
-    }
+    "longitude": 129.95955
   },
   {
     "id": 375,
     "town_name": "つつじが丘４丁目",
     "population_age_65_and_over": 261,
     "latitude": 32.80752,
-    "longitude": 129.962105,
-    "bounds": {
-      "north": 32.80802,
-      "south": 32.805898,
-      "east": 129.964585,
-      "west": 129.960827
-    }
+    "longitude": 129.962105
   },
   {
     "id": 376,
     "town_name": "つつじが丘５丁目",
     "population_age_65_and_over": 166,
     "latitude": 32.809875,
-    "longitude": 129.961762,
-    "bounds": {
-      "north": 32.811245,
-      "south": 32.808697,
-      "east": 129.962262,
-      "west": 129.960656
-    }
+    "longitude": 129.961762
   },
   {
     "id": 377,
     "town_name": "中里町",
     "population_age_65_and_over": 485,
     "latitude": 32.804724,
-    "longitude": 129.967065,
-    "bounds": {
-      "north": 32.806122,
-      "south": 32.804159,
-      "east": 129.973138,
-      "west": 129.964188
-    }
+    "longitude": 129.967065
   },
   {
     "id": 378,
     "town_name": "船石町",
     "population_age_65_and_over": 163,
     "latitude": 32.798049,
-    "longitude": 129.97921,
-    "bounds": {
-      "north": 32.801386,
-      "south": 32.789063,
-      "east": 129.983081,
-      "west": 129.973138
-    }
+    "longitude": 129.97921
   },
   {
     "id": 379,
     "town_name": "川内町",
     "population_age_65_and_over": 71,
     "latitude": 32.780078,
-    "longitude": 129.986953,
-    "bounds": {
-      "north": 32.789063,
-      "south": 32.779122,
-      "east": 129.993985,
-      "west": 129.980013
-    }
+    "longitude": 129.986953
   },
   {
     "id": 380,
     "town_name": "上戸石町",
     "population_age_65_and_over": 333,
     "latitude": 32.778166,
-    "longitude": 129.973074,
-    "bounds": {
-      "north": 32.779122,
-      "south": 32.775137,
-      "east": 129.980013,
-      "west": 129.96867
-    }
+    "longitude": 129.973074
   },
   {
     "id": 381,
     "town_name": "戸石町",
     "population_age_65_and_over": 740,
     "latitude": 32.766716,
-    "longitude": 129.978611,
-    "bounds": {
-      "north": 32.772441,
-      "south": 32.760623,
-      "east": 129.982782,
-      "west": 129.975842
-    }
+    "longitude": 129.978611
   },
   {
     "id": 382,
     "town_name": "牧島町",
     "population_age_65_and_over": 264,
     "latitude": 32.75453,
-    "longitude": 129.97293,
-    "bounds": {
-      "north": 32.760623,
-      "south": 32.749014,
-      "east": 129.975771,
-      "west": 129.966875
-    }
+    "longitude": 129.97293
   },
   {
     "id": 383,
     "town_name": "磯道町",
     "population_age_65_and_over": 434,
     "latitude": 32.697967,
-    "longitude": 129.849736,
-    "bounds": {
-      "north": 32.699454,
-      "south": 32.695711,
-      "east": 129.851946,
-      "west": 129.849236
-    }
+    "longitude": 129.849736
   },
   {
     "id": 384,
     "town_name": "古道町",
     "population_age_65_and_over": 20,
     "latitude": 32.697068,
-    "longitude": 129.858044,
-    "bounds": {
-      "north": 32.698013,
-      "south": 32.694521,
-      "east": 129.858544,
-      "west": 129.857326
-    }
+    "longitude": 129.858044
   },
   {
     "id": 385,
     "town_name": "三和町",
     "population_age_65_and_over": 279,
     "latitude": 32.693454,
-    "longitude": 129.849317,
-    "bounds": {
-      "north": 32.695711,
-      "south": 32.692714,
-      "east": 129.851634,
-      "west": 129.848817
-    }
+    "longitude": 129.849317
   },
   {
     "id": 386,
     "town_name": "土井首町",
     "population_age_65_and_over": 214,
     "latitude": 32.696301,
-    "longitude": 129.836811,
-    "bounds": {
-      "north": 32.697134,
-      "south": 32.694387,
-      "east": 129.837449,
-      "west": 129.832196
-    }
+    "longitude": 129.836811
   },
   {
     "id": 387,
     "town_name": "毛井首町",
     "population_age_65_and_over": 563,
     "latitude": 32.692474,
-    "longitude": 129.838088,
-    "bounds": {
-      "north": 32.694387,
-      "south": 32.691462,
-      "east": 129.839878,
-      "west": 129.837449
-    }
+    "longitude": 129.838088
   },
   {
     "id": 388,
     "town_name": "平瀬町",
     "population_age_65_and_over": 147,
     "latitude": 32.688852,
-    "longitude": 129.838373,
-    "bounds": {
-      "north": 32.689651,
-      "south": 32.68815,
-      "east": 129.84002,
-      "west": 129.837873
-    }
+    "longitude": 129.838373
   },
   {
     "id": 389,
     "town_name": "鶴見台１丁目",
     "population_age_65_and_over": 356,
     "latitude": 32.687449,
-    "longitude": 129.841889,
-    "bounds": {
-      "north": 32.688949,
-      "south": 32.686521,
-      "east": 129.843183,
-      "west": 129.841389
-    }
+    "longitude": 129.841889
   },
   {
     "id": 390,
     "town_name": "鶴見台２丁目",
     "population_age_65_and_over": 489,
     "latitude": 32.69045,
-    "longitude": 129.841667,
-    "bounds": {
-      "north": 32.691462,
-      "south": 32.68995,
-      "east": 129.843072,
-      "west": 129.84002
-    }
+    "longitude": 129.841667
   },
   {
     "id": 391,
     "town_name": "米山町",
     "population_age_65_and_over": 0,
     "latitude": 32.69032,
-    "longitude": 129.844477,
-    "bounds": {
-      "north": 32.69082,
-      "south": 32.688885,
-      "east": 129.846707,
-      "west": 129.843072
-    }
+    "longitude": 129.844477
   },
   {
     "id": 392,
     "town_name": "柳田町",
     "population_age_65_and_over": 57,
     "latitude": 32.685592,
-    "longitude": 129.846303,
-    "bounds": {
-      "north": 32.687156,
-      "south": 32.684416,
-      "east": 129.84762,
-      "west": 129.844735
-    }
+    "longitude": 129.846303
   },
   {
     "id": 393,
     "town_name": "草住町",
     "population_age_65_and_over": 86,
     "latitude": 32.688719,
-    "longitude": 129.848937,
-    "bounds": {
-      "north": 32.68952,
-      "south": 32.687156,
-      "east": 129.849437,
-      "west": 129.84762
-    }
+    "longitude": 129.848937
   },
   {
     "id": 394,
     "town_name": "京太郎町",
     "population_age_65_and_over": 5,
     "latitude": 32.691974,
-    "longitude": 129.853951,
-    "bounds": {
-      "north": 32.692714,
-      "south": 32.690347,
-      "east": 129.855998,
-      "west": 129.851634
-    }
+    "longitude": 129.853951
   },
   {
     "id": 395,
     "town_name": "竿浦町",
     "population_age_65_and_over": 385,
     "latitude": 32.674506,
-    "longitude": 129.839886,
-    "bounds": {
-      "north": 32.67893,
-      "south": 32.670364,
-      "east": 129.840902,
-      "west": 129.838735
-    }
+    "longitude": 129.839886
   },
   {
     "id": 396,
     "town_name": "江川町",
     "population_age_65_and_over": 441,
     "latitude": 32.683239,
-    "longitude": 129.843166,
-    "bounds": {
-      "north": 32.684416,
-      "south": 32.678872,
-      "east": 129.844735,
-      "west": 129.842528
-    }
+    "longitude": 129.843166
   },
   {
     "id": 397,
     "town_name": "末石町",
     "population_age_65_and_over": 176,
     "latitude": 32.683354,
-    "longitude": 129.837585,
-    "bounds": {
-      "north": 32.683968,
-      "south": 32.682854,
-      "east": 129.840375,
-      "west": 129.834709
-    }
+    "longitude": 129.837585
   },
   {
     "id": 398,
     "town_name": "平山町",
     "population_age_65_and_over": 633,
     "latitude": 32.666221,
-    "longitude": 129.841919,
-    "bounds": {
-      "north": 32.670364,
-      "south": 32.664428,
-      "east": 129.842542,
-      "west": 129.840902
-    }
+    "longitude": 129.841919
   },
   {
     "id": 399,
     "town_name": "平山台１丁目",
     "population_age_65_and_over": 437,
     "latitude": 32.662634,
-    "longitude": 129.831153,
-    "bounds": {
-      "north": 32.663134,
-      "south": 32.662134,
-      "east": 129.834644,
-      "west": 129.829086
-    }
+    "longitude": 129.831153
   },
   {
     "id": 400,
     "town_name": "平山台２丁目",
     "population_age_65_and_over": 478,
     "latitude": 32.662983,
-    "longitude": 129.827019,
-    "bounds": {
-      "north": 32.667589,
-      "south": 32.662483,
-      "east": 129.829086,
-      "west": 129.823955
-    }
+    "longitude": 129.827019
   },
   {
     "id": 401,
     "town_name": "深堀町１丁目",
     "population_age_65_and_over": 940,
     "latitude": 32.684582,
-    "longitude": 129.831834,
-    "bounds": {
-      "north": 32.68575,
-      "south": 32.683968,
-      "east": 129.834709,
-      "west": 129.829707
-    }
+    "longitude": 129.831834
   },
   {
     "id": 402,
     "town_name": "深堀町２丁目",
     "population_age_65_and_over": 119,
     "latitude": 32.686919,
-    "longitude": 129.82758,
-    "bounds": {
-      "north": 32.687886,
-      "south": 32.686419,
-      "east": 129.829707,
-      "west": 129.826458
-    }
+    "longitude": 129.82758
   },
   {
     "id": 403,
     "town_name": "深堀町３丁目",
     "population_age_65_and_over": 165,
     "latitude": 32.686566,
-    "longitude": 129.825335,
-    "bounds": {
-      "north": 32.687066,
-      "south": 32.686066,
-      "east": 129.826458,
-      "west": 129.823811
-    }
+    "longitude": 129.825335
   },
   {
     "id": 404,
     "town_name": "深堀町４丁目",
     "population_age_65_and_over": 209,
     "latitude": 32.678937,
-    "longitude": 129.828959,
-    "bounds": {
-      "north": 32.681759,
-      "south": 32.675566,
-      "east": 129.830397,
-      "west": 129.82461
-    }
+    "longitude": 129.828959
   },
   {
     "id": 405,
     "town_name": "深堀町５丁目",
     "population_age_65_and_over": 272,
     "latitude": 32.685644,
-    "longitude": 129.822287,
-    "bounds": {
-      "north": 32.686144,
-      "south": 32.682994,
-      "east": 129.823811,
-      "west": 129.821274
-    }
+    "longitude": 129.822287
   },
   {
     "id": 406,
     "town_name": "深堀町６丁目",
     "population_age_65_and_over": 118,
     "latitude": 32.680343,
-    "longitude": 129.820261,
-    "bounds": {
-      "north": 32.682994,
-      "south": 32.67964,
-      "east": 129.821274,
-      "west": 129.818275
-    }
+    "longitude": 129.820261
   },
   {
     "id": 407,
     "town_name": "大籠町",
     "population_age_65_and_over": 56,
     "latitude": 32.672195,
-    "longitude": 129.822768,
-    "bounds": {
-      "north": 32.676269,
-      "south": 32.667589,
-      "east": 129.825863,
-      "west": 129.821514
-    }
+    "longitude": 129.822768
   },
   {
     "id": 408,
     "town_name": "香焼町",
     "population_age_65_and_over": 1314,
     "latitude": 32.689726,
-    "longitude": 129.816289,
-    "bounds": {
-      "north": 32.693013,
-      "south": 32.687685,
-      "east": 129.819288,
-      "west": 129.798486
-    }
+    "longitude": 129.816289
   },
   {
     "id": 409,
     "town_name": "伊王島町１丁目",
     "population_age_65_and_over": 112,
     "latitude": 32.708593,
-    "longitude": 129.766933,
-    "bounds": {
-      "north": 32.715867,
-      "south": 32.702488,
-      "east": 129.773808,
-      "west": 129.759133
-    }
+    "longitude": 129.766933
   },
   {
     "id": 410,
     "town_name": "伊王島町２丁目",
     "population_age_65_and_over": 193,
     "latitude": 32.696383,
-    "longitude": 129.780682,
-    "bounds": {
-      "north": 32.702488,
-      "south": 32.693055,
-      "east": 129.798486,
-      "west": 129.773808
-    }
+    "longitude": 129.780682
   },
   {
     "id": 411,
     "town_name": "高島町",
     "population_age_65_and_over": 120,
     "latitude": 32.664954,
-    "longitude": 129.751333,
-    "bounds": {
-      "north": 32.680668,
-      "south": 32.64806,
-      "east": 129.766008,
-      "west": 129.748119
-    }
+    "longitude": 129.751333
   },
   {
     "id": 412,
     "town_name": "以下宿町",
     "population_age_65_and_over": 56,
     "latitude": 32.618224,
-    "longitude": 129.799088,
-    "bounds": {
-      "north": 32.624695,
-      "south": 32.609883,
-      "east": 129.80032,
-      "west": 129.792599
-    }
+    "longitude": 129.799088
   },
   {
     "id": 413,
     "town_name": "野母崎樺島町",
     "population_age_65_and_over": 216,
     "latitude": 32.560863,
-    "longitude": 129.78263,
-    "bounds": {
-      "north": 32.575721,
-      "south": 32.545565,
-      "east": 129.78695,
-      "west": 129.775252
-    }
+    "longitude": 129.78263
   },
   {
     "id": 414,
     "town_name": "黒浜町",
     "population_age_65_and_over": 101,
     "latitude": 32.631165,
-    "longitude": 129.801553,
-    "bounds": {
-      "north": 32.631665,
-      "south": 32.624695,
-      "east": 129.812208,
-      "west": 129.80032
-    }
+    "longitude": 129.801553
   },
   {
     "id": 415,
     "town_name": "高浜町",
     "population_age_65_and_over": 463,
     "latitude": 32.601542,
-    "longitude": 129.786111,
-    "bounds": {
-      "north": 32.609883,
-      "south": 32.596061,
-      "east": 129.788691,
-      "west": 129.776993
-    }
+    "longitude": 129.786111
   },
   {
     "id": 416,
     "town_name": "南越町",
     "population_age_65_and_over": 81,
     "latitude": 32.593458,
-    "longitude": 129.767874,
-    "bounds": {
-      "north": 32.5975,
-      "south": 32.592018,
-      "east": 129.776993,
-      "west": 129.75639
-    }
+    "longitude": 129.767874
   },
   {
     "id": 417,
     "town_name": "野母町",
     "population_age_65_and_over": 769,
     "latitude": 32.582143,
-    "longitude": 129.744906,
-    "bounds": {
-      "north": 32.587801,
-      "south": 32.571503,
-      "east": 129.75639,
-      "west": 129.741019
-    }
+    "longitude": 129.744906
   },
   {
     "id": 418,
     "town_name": "脇岬町",
     "population_age_65_and_over": 629,
     "latitude": 32.590579,
-    "longitude": 129.791271,
-    "bounds": {
-      "north": 32.596061,
-      "south": 32.575721,
-      "east": 129.79518,
-      "west": 129.788691
-    }
+    "longitude": 129.791271
   },
   {
     "id": 419,
     "town_name": "蚊焼町",
     "population_age_65_and_over": 877,
     "latitude": 32.646844,
-    "longitude": 129.814853,
-    "bounds": {
-      "north": 32.65437,
-      "south": 32.646204,
-      "east": 129.821776,
-      "west": 129.808203
-    }
+    "longitude": 129.814853
   },
   {
     "id": 420,
     "town_name": "川原町",
     "population_age_65_and_over": 331,
     "latitude": 32.631627,
-    "longitude": 129.822863,
-    "bounds": {
-      "north": 32.638596,
-      "south": 32.624955,
-      "east": 129.825782,
-      "west": 129.821462
-    }
+    "longitude": 129.822863
   },
   {
     "id": 421,
     "town_name": "為石町",
     "population_age_65_and_over": 634,
     "latitude": 32.644865,
-    "longitude": 129.839972,
-    "bounds": {
-      "north": 32.645365,
-      "south": 32.638246,
-      "east": 129.848129,
-      "west": 129.834336
-    }
+    "longitude": 129.839972
   },
   {
     "id": 422,
     "town_name": "椿が丘町",
     "population_age_65_and_over": 409,
     "latitude": 32.645564,
-    "longitude": 129.8287,
-    "bounds": {
-      "north": 32.646204,
-      "south": 32.645064,
-      "east": 129.834336,
-      "west": 129.821776
-    }
+    "longitude": 129.8287
   },
   {
     "id": 423,
     "town_name": "藤田尾町",
     "population_age_65_and_over": 36,
     "latitude": 32.649748,
-    "longitude": 129.856287,
-    "bounds": {
-      "north": 32.652682,
-      "south": 32.647306,
-      "east": 129.863889,
-      "west": 129.848129
-    }
+    "longitude": 129.856287
   },
   {
     "id": 424,
     "town_name": "布巻町",
     "population_age_65_and_over": 439,
     "latitude": 32.655617,
-    "longitude": 129.838135,
-    "bounds": {
-      "north": 32.659126,
-      "south": 32.650241,
-      "east": 129.839053,
-      "west": 129.834644
-    }
+    "longitude": 129.838135
   },
   {
     "id": 425,
     "town_name": "晴海台町",
     "population_age_65_and_over": 1138,
     "latitude": 32.661896,
-    "longitude": 129.820891,
-    "bounds": {
-      "north": 32.662439,
-      "south": 32.658756,
-      "east": 129.823955,
-      "west": 129.817872
-    }
+    "longitude": 129.820891
   },
   {
     "id": 426,
     "town_name": "宮崎町",
     "population_age_65_and_over": 301,
     "latitude": 32.618282,
-    "longitude": 129.820062,
-    "bounds": {
-      "north": 32.624955,
-      "south": 32.617782,
-      "east": 129.821462,
-      "west": 129.809575
-    }
+    "longitude": 129.820062
   },
   {
     "id": 427,
     "town_name": "松崎町",
     "population_age_65_and_over": 62,
     "latitude": 32.85348,
-    "longitude": 129.743317,
-    "bounds": {
-      "north": 32.856669,
-      "south": 32.851613,
-      "east": 129.743817,
-      "west": 129.733937
-    }
+    "longitude": 129.743317
   },
   {
     "id": 428,
     "town_name": "三重町",
     "population_age_65_and_over": 427,
     "latitude": 32.831103,
-    "longitude": 129.744208,
-    "bounds": {
-      "north": 32.832755,
-      "south": 32.829669,
-      "east": 129.751703,
-      "west": 129.739369
-    }
+    "longitude": 129.744208
   },
   {
     "id": 429,
     "town_name": "三重田町",
     "population_age_65_and_over": 78,
     "latitude": 32.828235,
-    "longitude": 129.734529,
-    "bounds": {
-      "north": 32.829669,
-      "south": 32.823622,
-      "east": 129.739369,
-      "west": 129.730187
-    }
+    "longitude": 129.734529
   },
   {
     "id": 430,
     "town_name": "樫山町",
     "population_age_65_and_over": 269,
     "latitude": 32.812817,
-    "longitude": 129.737133,
-    "bounds": {
-      "north": 32.815913,
-      "south": 32.808326,
-      "east": 129.739029,
-      "west": 129.735831
-    }
+    "longitude": 129.737133
   },
   {
     "id": 431,
     "town_name": "畦町",
     "population_age_65_and_over": 15,
     "latitude": 32.819009,
-    "longitude": 129.740925,
-    "bounds": {
-      "north": 32.823622,
-      "south": 32.815913,
-      "east": 129.742567,
-      "west": 129.739029
-    }
+    "longitude": 129.740925
   },
   {
     "id": 432,
     "town_name": "三京町",
     "population_age_65_and_over": 343,
     "latitude": 32.834407,
-    "longitude": 129.759198,
-    "bounds": {
-      "north": 32.843943,
-      "south": 32.833345,
-      "east": 129.762118,
-      "west": 129.751703
-    }
+    "longitude": 129.759198
   },
   {
     "id": 433,
     "town_name": "京泊１丁目",
     "population_age_65_and_over": 359,
     "latitude": 32.828452,
-    "longitude": 129.774028,
-    "bounds": {
-      "north": 32.830364,
-      "south": 32.825348,
-      "east": 129.774528,
-      "west": 129.772671
-    }
+    "longitude": 129.774028
   },
   {
     "id": 434,
     "town_name": "京泊２丁目",
     "population_age_65_and_over": 315,
     "latitude": 32.822244,
-    "longitude": 129.774635,
-    "bounds": {
-      "north": 32.822744,
-      "south": 32.818096,
-      "east": 129.776865,
-      "west": 129.771131
-    }
+    "longitude": 129.774635
   },
   {
     "id": 435,
     "town_name": "京泊３丁目",
     "population_age_65_and_over": 242,
     "latitude": 32.823151,
-    "longitude": 129.767628,
-    "bounds": {
-      "north": 32.825193,
-      "south": 32.822651,
-      "east": 129.771131,
-      "west": 129.764168
-    }
+    "longitude": 129.767628
   },
   {
     "id": 436,
     "town_name": "さくらの里１丁目",
     "population_age_65_and_over": 190,
     "latitude": 32.832276,
-    "longitude": 129.771313,
-    "bounds": {
-      "north": 32.832776,
-      "south": 32.830364,
-      "east": 129.772671,
-      "west": 129.768176
-    }
+    "longitude": 129.771313
   },
   {
     "id": 437,
     "town_name": "さくらの里２丁目",
     "population_age_65_and_over": 152,
     "latitude": 32.832283,
-    "longitude": 129.765039,
-    "bounds": {
-      "north": 32.833345,
-      "south": 32.831783,
-      "east": 129.768176,
-      "west": 129.762118
-    }
+    "longitude": 129.765039
   },
   {
     "id": 438,
     "town_name": "さくらの里３丁目",
     "population_age_65_and_over": 7,
     "latitude": 32.827235,
-    "longitude": 129.760708,
-    "bounds": {
-      "north": 32.829759,
-      "south": 32.825193,
-      "east": 129.762874,
-      "west": 129.759953
-    }
+    "longitude": 129.760708
   },
   {
     "id": 439,
     "town_name": "畝刈町",
     "population_age_65_and_over": 619,
     "latitude": 32.831102,
-    "longitude": 129.781693,
-    "bounds": {
-      "north": 32.831602,
-      "south": 32.829777,
-      "east": 129.786723,
-      "west": 129.77786
-    }
+    "longitude": 129.781693
   },
   {
     "id": 440,
     "town_name": "豊洋台１丁目",
     "population_age_65_and_over": 107,
     "latitude": 32.831879,
-    "longitude": 129.791754,
-    "bounds": {
-      "north": 32.832379,
-      "south": 32.83018,
-      "east": 129.792835,
-      "west": 129.786723
-    }
+    "longitude": 129.791754
   },
   {
     "id": 441,
     "town_name": "豊洋台２丁目",
     "population_age_65_and_over": 37,
     "latitude": 32.828481,
-    "longitude": 129.793916,
-    "bounds": {
-      "north": 32.83018,
-      "south": 32.825693,
-      "east": 129.799716,
-      "west": 129.792835
-    }
+    "longitude": 129.793916
   },
   {
     "id": 442,
     "town_name": "鳴見町",
     "population_age_65_and_over": 388,
     "latitude": 32.821768,
-    "longitude": 129.815461,
-    "bounds": {
-      "north": 32.822336,
-      "south": 32.821091,
-      "east": 129.821158,
-      "west": 129.810873
-    }
+    "longitude": 129.815461
   },
   {
     "id": 443,
     "town_name": "鳴見台１丁目",
     "population_age_65_and_over": 833,
     "latitude": 32.820415,
-    "longitude": 129.806284,
-    "bounds": {
-      "north": 32.821659,
-      "south": 32.815765,
-      "east": 129.810873,
-      "west": 129.805784
-    }
+    "longitude": 129.806284
   },
   {
     "id": 444,
     "town_name": "鳴見台２丁目",
     "population_age_65_and_over": 798,
     "latitude": 32.822904,
-    "longitude": 129.805516,
-    "bounds": {
-      "north": 32.825693,
-      "south": 32.821659,
-      "east": 129.806016,
-      "west": 129.799716
-    }
+    "longitude": 129.805516
   },
   {
     "id": 445,
     "town_name": "多以良町",
     "population_age_65_and_over": 348,
     "latitude": 32.813948,
-    "longitude": 129.779095,
-    "bounds": {
-      "north": 32.818096,
-      "south": 32.808892,
-      "east": 129.783875,
-      "west": 129.776865
-    }
+    "longitude": 129.779095
   },
   {
     "id": 446,
     "town_name": "永田町",
     "population_age_65_and_over": 155,
     "latitude": 32.835469,
-    "longitude": 129.725844,
-    "bounds": {
-      "north": 32.837125,
-      "south": 32.831852,
-      "east": 129.730187,
-      "west": 129.718735
-    }
+    "longitude": 129.725844
   },
   {
     "id": 447,
     "town_name": "上黒崎町",
     "population_age_65_and_over": 79,
     "latitude": 32.849746,
-    "longitude": 129.724557,
-    "bounds": {
-      "north": 32.854803,
-      "south": 32.842607,
-      "east": 129.7252,
-      "west": 129.72019
-    }
+    "longitude": 129.724557
   },
   {
     "id": 448,
     "town_name": "下黒崎町",
     "population_age_65_and_over": 228,
     "latitude": 32.83878,
-    "longitude": 129.711627,
-    "bounds": {
-      "north": 32.839612,
-      "south": 32.837125,
-      "east": 129.718735,
-      "west": 129.708671
-    }
+    "longitude": 129.711627
   },
   {
     "id": 449,
     "town_name": "西出津町",
     "population_age_65_and_over": 269,
     "latitude": 32.851923,
-    "longitude": 129.699195,
-    "bounds": {
-      "north": 32.856411,
-      "south": 32.851423,
-      "east": 129.702455,
-      "west": 129.694936
-    }
+    "longitude": 129.699195
   },
   {
     "id": 450,
     "town_name": "東出津町",
     "population_age_65_and_over": 92,
     "latitude": 32.840443,
-    "longitude": 129.705715,
-    "bounds": {
-      "north": 32.846183,
-      "south": 32.839612,
-      "east": 129.708671,
-      "west": 129.702455
-    }
+    "longitude": 129.705715
   },
   {
     "id": 451,
     "town_name": "新牧野町",
     "population_age_65_and_over": 178,
     "latitude": 32.859859,
-    "longitude": 129.715822,
-    "bounds": {
-      "north": 32.866049,
-      "south": 32.854803,
-      "east": 129.72019,
-      "west": 129.709871
-    }
+    "longitude": 129.715822
   },
   {
     "id": 452,
     "town_name": "赤首町",
     "population_age_65_and_over": 45,
     "latitude": 32.851333,
-    "longitude": 129.690678,
-    "bounds": {
-      "north": 32.851833,
-      "south": 32.845888,
-      "east": 129.694936,
-      "west": 129.690178
-    }
+    "longitude": 129.690678
   },
   {
     "id": 453,
     "town_name": "神浦扇山町",
     "population_age_65_and_over": 46,
     "latitude": 32.891664,
-    "longitude": 129.728013,
-    "bounds": {
-      "north": 32.892406,
-      "south": 32.884423,
-      "east": 129.746325,
-      "west": 129.726702
-    }
+    "longitude": 129.728013
   },
   {
     "id": 454,
     "town_name": "神浦北大中尾町",
     "population_age_65_and_over": 10,
     "latitude": 32.894035,
-    "longitude": 129.698306,
-    "bounds": {
-      "north": 32.894785,
-      "south": 32.893535,
-      "east": 129.703331,
-      "west": 129.690392
-    }
+    "longitude": 129.698306
   },
   {
     "id": 455,
     "town_name": "神浦上大中尾町",
     "population_age_65_and_over": 38,
     "latitude": 32.893149,
-    "longitude": 129.708356,
-    "bounds": {
-      "north": 32.893649,
-      "south": 32.892406,
-      "east": 129.718185,
-      "west": 129.703331
-    }
+    "longitude": 129.708356
   },
   {
     "id": 456,
     "town_name": "神浦下大中尾町",
     "population_age_65_and_over": 44,
     "latitude": 32.877183,
-    "longitude": 129.725391,
-    "bounds": {
-      "north": 32.884423,
-      "south": 32.874711,
-      "east": 129.726702,
-      "west": 129.714655
-    }
+    "longitude": 129.725391
   },
   {
     "id": 457,
     "town_name": "神浦丸尾町",
     "population_age_65_and_over": 94,
     "latitude": 32.883402,
-    "longitude": 129.686182,
-    "bounds": {
-      "north": 32.88572,
-      "south": 32.882283,
-      "east": 129.692244,
-      "west": 129.683885
-    }
+    "longitude": 129.686182
   },
   {
     "id": 458,
     "town_name": "神浦江川町",
     "population_age_65_and_over": 142,
     "latitude": 32.881164,
-    "longitude": 129.681588,
-    "bounds": {
-      "north": 32.882283,
-      "south": 32.877303,
-      "east": 129.683885,
-      "west": 129.678542
-    }
+    "longitude": 129.681588
   },
   {
     "id": 459,
     "town_name": "神浦上道徳町",
     "population_age_65_and_over": 31,
     "latitude": 32.888038,
-    "longitude": 129.682478,
-    "bounds": {
-      "north": 32.891787,
-      "south": 32.88572,
-      "east": 129.68433,
-      "west": 129.678988
-    }
+    "longitude": 129.682478
   },
   {
     "id": 460,
     "town_name": "神浦下道徳町",
     "population_age_65_and_over": 6,
     "latitude": 32.886625,
-    "longitude": 129.675497,
-    "bounds": {
-      "north": 32.887332,
-      "south": 32.883894,
-      "east": 129.678988,
-      "west": 129.637561
-    }
+    "longitude": 129.675497
   },
   {
     "id": 461,
     "town_name": "神浦口福町",
     "population_age_65_and_over": 10,
     "latitude": 32.895536,
-    "longitude": 129.678799,
-    "bounds": {
-      "north": 32.906369,
-      "south": 32.891787,
-      "east": 129.680638,
-      "west": 129.677148
-    }
+    "longitude": 129.678799
   },
   {
     "id": 462,
     "town_name": "神浦向町",
     "population_age_65_and_over": 9,
     "latitude": 32.872238,
-    "longitude": 129.703919,
-    "bounds": {
-      "north": 32.87782,
-      "south": 32.866049,
-      "east": 129.709871,
-      "west": 129.696964
-    }
+    "longitude": 129.703919
   },
   {
     "id": 463,
     "town_name": "神浦夏井町",
     "population_age_65_and_over": 30,
     "latitude": 32.873443,
-    "longitude": 129.68161,
-    "bounds": {
-      "north": 32.877303,
-      "south": 32.870417,
-      "east": 129.68236,
-      "west": 129.68111
-    }
+    "longitude": 129.68161
   },
   {
     "id": 464,
     "town_name": "上大野町",
     "population_age_65_and_over": 44,
     "latitude": 32.86739,
-    "longitude": 129.68311,
-    "bounds": {
-      "north": 32.870417,
-      "south": 32.864145,
-      "east": 129.686559,
-      "west": 129.68236
-    }
+    "longitude": 129.68311
   },
   {
     "id": 465,
     "town_name": "下大野町",
     "population_age_65_and_over": 50,
     "latitude": 32.860899,
-    "longitude": 129.690009,
-    "bounds": {
-      "north": 32.864145,
-      "south": 32.856116,
-      "east": 129.690509,
-      "west": 129.686559
-    }
+    "longitude": 129.690009
   },
   {
     "id": 466,
     "town_name": "池島町",
     "population_age_65_and_over": 53,
     "latitude": 32.885527,
-    "longitude": 129.599625,
-    "bounds": {
-      "north": 32.886076,
-      "south": 32.883346,
-      "east": 129.637561,
-      "west": 129.561684
-    }
+    "longitude": 129.599625
   },
   {
     "id": 467,
     "town_name": "琴海尾戸町",
     "population_age_65_and_over": 265,
     "latitude": 32.935656,
-    "longitude": 129.80703,
-    "bounds": {
-      "north": 32.947215,
-      "south": 32.919426,
-      "east": 129.811245,
-      "west": 129.80332
-    }
+    "longitude": 129.80703
   },
   {
     "id": 468,
     "town_name": "琴海大平町",
     "population_age_65_and_over": 378,
     "latitude": 32.958773,
-    "longitude": 129.799611,
-    "bounds": {
-      "north": 32.970743,
-      "south": 32.947215,
-      "east": 129.80332,
-      "west": 129.781029
-    }
+    "longitude": 129.799611
   },
   {
     "id": 469,
     "town_name": "琴海形上町",
     "population_age_65_and_over": 280,
     "latitude": 32.943932,
-    "longitude": 129.762448,
-    "bounds": {
-      "north": 32.951352,
-      "south": 32.930567,
-      "east": 129.76329,
-      "west": 129.74523
-    }
+    "longitude": 129.762448
   },
   {
     "id": 470,
     "town_name": "長浦町",
     "population_age_65_and_over": 283,
     "latitude": 32.917203,
-    "longitude": 129.764132,
-    "bounds": {
-      "north": 32.930567,
-      "south": 32.906049,
-      "east": 129.764632,
-      "west": 129.76329
-    }
+    "longitude": 129.764132
   },
   {
     "id": 471,
     "town_name": "琴海戸根原町",
     "population_age_65_and_over": 135,
     "latitude": 32.903196,
-    "longitude": 129.798386,
-    "bounds": {
-      "north": 32.9102,
-      "south": 32.899045,
-      "east": 129.802708,
-      "west": 129.781511
-    }
+    "longitude": 129.798386
   },
   {
     "id": 472,
     "town_name": "琴海戸根町",
     "population_age_65_and_over": 556,
     "latitude": 32.894895,
-    "longitude": 129.764636,
-    "bounds": {
-      "north": 32.906049,
-      "south": 32.885413,
-      "east": 129.770744,
-      "west": 129.764136
-    }
+    "longitude": 129.764636
   },
   {
     "id": 473,
     "town_name": "琴海村松町",
     "population_age_65_and_over": 536,
     "latitude": 32.875931,
-    "longitude": 129.776853,
-    "bounds": {
-      "north": 32.885413,
-      "south": 32.867642,
-      "east": 129.78762,
-      "west": 129.775822
-    }
+    "longitude": 129.776853
   },
   {
     "id": 474,
     "town_name": "西海町",
     "population_age_65_and_over": 1884,
     "latitude": 32.859352,
-    "longitude": 129.77479,
-    "bounds": {
-      "north": 32.867642,
-      "south": 32.856416,
-      "east": 129.775822,
-      "west": 129.759053
-    }
+    "longitude": 129.77479
   }
 ]
